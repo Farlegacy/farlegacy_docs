@@ -1,0 +1,41 @@
+---
+description: Show me your deck.
+---
+
+# Cards
+
+{% hint style="info" %}
+Cards are what decks are built with. It's what makes victories happen.
+{% endhint %}
+
+## About
+
+There are currently 60 cards in total in Farlegacy, 40 of which are unique. All cards are divided into 4 main types:
+
+|  Type  | Attack cards | Defense cards | Ultimate cards | Heal cards |
+| :----: | :----------: | :-----------: | :------------: | ---------- |
+| Number |    22 pcs.   |     8 pcs.    |     21 pcs.    | 9 pcs.     |
+|  Сolor |    Purple    |     Orange    |       Red      | Green      |
+
+Some of the cards have duplicates. This is to allow players to be more selective in assembling their own deck based on their strategy and also to achieve a better game balance.
+
+## Key card indicators
+
+<figure><img src="../.gitbook/assets/2025-04-18_04-57-01.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+If the card does no damage or defence, it will only display its cost in energy.
+{% endhint %}
+
+## All cards
+
+ТУТ КАРТИНКА БУДЕТ СО ВСЕМИ ВСЕМИ КАРТАМИ
+
+
+
+
+
+
+
+
+
