@@ -121,3 +121,22 @@ The token is designed to scale with the world — and to support those who inves
 
 
 
+
+
+{% hint style="info" %}
+$SHARD is the native utility token of Farlegacy. It powers long-term participation in the ecosystem, player expression and cosmetic progression. Every action tied to progression, customization, and governance runs through $SHARD.
+
+The token is designed with sustainability and community in mind. Its purpose is not speculation — but integration into the world of Farlegacy.
+{% endhint %}
+
+***
+
+## Token Overview
+
+| Parameter            | Value       |
+| -------------------- | ----------- |
+| Token Name           | SHARD       |
+| Maximum Token Supply | 100,000,000 |
+| Total Token Supply   | 100,000,000 |
+|                      |             |
+
