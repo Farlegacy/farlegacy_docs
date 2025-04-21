@@ -14,7 +14,7 @@ Farlegacy currently includes 8 defense cards, 5 of which are unique. Their main 
 
 ### FARCASTER
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1064 (1).PNG" alt="" width="188"><figcaption><p><em>The Gate Stands</em></p></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/IMG_1064 (1).PNG" alt="" width="188"><figcaption><p>The Gate Stands.</p></figcaption></figure></div>
 
 Not just a shield — a statement. FARCASTER isn’t here to stall a turn. It’s here to hold the line when everything else is burning. Carved into the card is the iconic arch — a symbol of open protocol, digital permanence, and absolute refusal to fold.
 
