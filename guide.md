@@ -8,7 +8,7 @@ Farlegacy isn’t just a card game — it’s a world. And like in any world, yo
 
 ***
 
-## 1. Getting Access
+## Getting Access
 
 Before anything else, you’ll need a key — literally.
 
@@ -22,7 +22,7 @@ Owning a crystal gives you access to future drops and more in the Farlegacy univ
 
 ***
 
-## 2. Platform & Ecosystem
+## Platform & Ecosystem
 
 Farlegacy is:
 
@@ -37,7 +37,7 @@ To play, you’ll need:
 
 ***
 
-## 3. Basic Game Concept
+## Basic Game Concept
 
 Your objective: Destroy the opponent’s crystal before they destroy yours.
 
@@ -51,7 +51,7 @@ Every match is turn-based and lasts about 8–12 minutes.
 
 ***
 
-## 4. Your Cards
+## Your Cards
 
 Cards are drawn automatically from your deck.
 
@@ -69,7 +69,7 @@ You don’t need to build a custom deck to start — you’ll have enough to pla
 
 ***
 
-## 5. Turn Mechanics
+## Turn Mechanics
 
 Each turn follows this simple flow:
 
@@ -84,7 +84,7 @@ Cards do not stay in hand — they refresh every turn. Plan ahead.
 
 ***
 
-## 6. Status Effects
+## Status Effects
 
 Here are some effects you’ll encounter frequently:
 
@@ -98,7 +98,7 @@ These effects can stack or cancel depending on card interactions.
 
 ***
 
-## 7. Tips for First Matches
+## Tips for First Matches
 
 * Learn your deck. Know which cards are defensive vs. offensive.
 * Don’t spend all energy every turn — sometimes timing wins games.
@@ -108,7 +108,7 @@ These effects can stack or cancel depending on card interactions.
 
 ***
 
-## 8. How to Actually Play (UI)
+## How to Actually Play (UI)
 
 Once in-game:
 
@@ -122,7 +122,7 @@ Once in-game:
 
 ***
 
-## 9. What’s Next?
+## What’s Next?
 
 As you play, you’ll unlock new cards, customize your deck (coming soon), and participate in events.
 
