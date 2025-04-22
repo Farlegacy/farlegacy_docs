@@ -18,7 +18,7 @@ How do you get one? Well, that part will be revealed soon. For now, we suggest s
 
 ## Why crystals, you ask?
 
-Why not, say, a biometric drone with the face of a pigeon, or a multidimensional cube with an attitude? Honestly — no one really remembers. But somehow, these strange little things, glowing like an overheated synth at a warehouse rave, are your ticket into the game.
+Why not, say, a biometric drone with the face of a pigeon, or a multidimensional cube with an attitude? Honestly, no one really remembers. But somehow, these strange little things, glowing like an overheated synth at a warehouse rave, ended up being your ticket into the game.
 
 Some say the crystals are ancient tech, remnants from long-lost blockchain civilizations. Others claim they were created by accident, when someone spilled an energy drink on a smart contract. As usual, the truth probably lies somewhere in between (or somewhere completely else).
 
