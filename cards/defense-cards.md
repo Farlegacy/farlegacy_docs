@@ -8,7 +8,7 @@ description: Shield Up!
 Defense won’t win you the game. But it sure stops you from losing it.
 {% endhint %}
 
-Farlegacy currently includes 8 defense cards, 5 of which are unique. Their main color is orange, a tone that represents resilience, boldness, and the ability to take a hit. More may emerge over time as the meta shifts and the community helps define what it means to survive. Below are the current tools for those who prefer to stay standing.
+Farlegacy currently includes 8 defense cards, 5 of which are unique. Their main color is orange, a tone that represents resilience, boldness, and the ability to take a hit. More may emerge over time as the meta shifts and the community helps define what it means to survive. Below is the current list of available cards in this category.
 
 ***
 

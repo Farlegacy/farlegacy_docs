@@ -8,7 +8,7 @@ description: Hit 'Em Up!
 Attack cards are the backbone of any deck. After all, how else can you eliminate your opponent's crystal?
 {% endhint %}
 
-Farlegacy currently features 22 attack cards, including 12 unique ones. Their primary color is purple, a bold and aggressive shade that signals danger. As the game evolves, new cards will be introduced through community-driven decisions. Below is the current roster of available attack cards.
+Farlegacy currently features 22 attack cards, including 12 unique ones. Their primary color is purple, a bold and aggressive shade that signals danger. As the game evolves, new cards will be introduced through community-driven decisions. Below is the current list of available cards in this category.
 
 ***
 
