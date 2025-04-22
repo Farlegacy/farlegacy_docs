@@ -2,7 +2,7 @@
 
 Farlegacy is a turn-based, onchain card battler set in a cyberpunk world where players use their decks to destroy the opponent’s crystal. While the action may feel fast and chaotic, the underlying rules are simple, strategic, and designed for depth.
 
-Below is everything you need to know to play — and survive.
+Below is everything you need to know to play and survive.
 
 ***
 
@@ -116,7 +116,7 @@ Here are the common temporary effects applied to your crystal or the opponent's:
 
 ## Other Mechanics
 
-* **Unplayable States:** If you can’t afford any card in your hand — you end the turn without action. Strategic passes are allowed.
+* **Unplayable States:** If you can’t afford any card in your hand, you end the turn without action. Strategic passes are allowed.
 * **Combo Effects:** Some cards are best used in combination (e.g. BOOST before an attack card).
 * **Deck Customization (future):** Players will eventually be able to build custom decks using owned cards.
 
@@ -124,13 +124,13 @@ Here are the common temporary effects applied to your crystal or the opponent's:
 
 ## Tips
 
-* Damage stacks fast — sometimes it's better to block than strike.
+* Damage stacks fast. Sometimes it's better to block than strike.
 * Knowing when to play utility cards can swing an entire match.
 * Use card effects to cycle your deck and recover key plays.
 
 ***
 
-Farlegacy blends simplicity with depth — and rewards those who learn the rhythm of control, pressure, and timing. Your cards are more than just tools. They’re pieces of the story.
+Farlegacy blends simplicity with depth and rewards those who learn the rhythm of control, pressure, and timing. Your cards are more than just tools. They’re pieces of the story.
 
 
 
