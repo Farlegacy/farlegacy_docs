@@ -5,16 +5,16 @@ description: Welcome to this world, stranger.
 # Introduction
 
 {% hint style="info" %}
-If you want to learn where it all came from and how it began, we suggest starting with the LORE OF THE FARLEGACY.
+Farlegacy is a cyberpunk-styled card battler built on Base and available exclusively on Warpcast.
 {% endhint %}
 
 <figure><img src=".gitbook/assets/image_2025-04-17_17-46-23.png" alt=""><figcaption></figcaption></figure>
 
-## What is Farlegacy?
+## About the Game
 
-In short, it's a card game. But not just any card game. It's a cyberpunk-styled card battler built on Base and available exclusively on Warpcast. Each card draws inspiration from key heroes, characters, and iconic projects across the Base, Farcaster, and the broader crypto culture ecosystem.
+Each card in the game is inspired by key figures, personalities, and iconic characters from the Base, Farcaster, and broader crypto culture. These aren’t abstract references — they’re familiar faces, projects, and memes reimagined as game mechanics.
 
-Farlegacy doesn’t expect you to be a crypto wizard or a deck-building mastermind. If you are, great. You’ll feel right at home. If you're not, you're still welcome. Just remember one thing: if a card ever winks at you from the screen, it’s either a bug… or you’ve already gone too deep.
+This world doesn’t try to explain itself. But the deeper you go, the more it starts to make sense — or at least, feel like it should. If you want to learn where it all came from and how it began, we suggest starting with the LORE OF THE FARLEGACY.
 
 ## The Vision
 
