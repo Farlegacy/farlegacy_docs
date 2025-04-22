@@ -4,17 +4,17 @@ description: Everything you need to start your journey in Farlegacy.
 
 # Guide
 
-Farlegacy isn’t just a card game — it’s a world. And like in any world, you’ll want to know where to click, what to collect, and how to actually get inside. This guide will take you step by step — from “just browsing” to “locked in and already deep in the fight.”
+Farlegacy isn’t just a card game. It’s a world. And like in any world, you’ll want to know where to click, what to collect, and how to actually get inside. This guide will take you step by step, from “just browsing” to “locked in and already deep in the fight.”
 
 ***
 
 ## Getting Access
 
-Before anything else, you’ll need a key — literally.
+Before anything else, you’ll need a key, literally.
 
 To play Farlegacy, you must own a Crystal NFT. These NFTs act as access passes, representing your identity, your entry point, and your crystal in-game.
 
-Don’t have one yet? The public sale is coming soon — keep an eye on our official channels for the announcement, giveaways, and whitelist opportunities.
+Don’t have one yet? The public sale is coming soon. Keep an eye on our official channels for the announcement, giveaways, and whitelist opportunities.
 
 {% hint style="info" %}
 Owning a crystal gives you access to future drops and more in the Farlegacy universe.
@@ -32,8 +32,8 @@ Farlegacy is:
 To play, you’ll need:
 
 * Access to [Warpcast ](https://warpcast.com/)(download from [App Store](https://apps.apple.com/us/app/warpcast/id1600555445) / [Google Play](https://play.google.com/store/apps/details?id=com.farcaster.mobile))
-* A wallet — and here’s the good part: the built-in Warpcast wallet is enough. No need to connect an external wallet unless you want to.
-* A small amount of ETH on Base for gas (used during minting or advanced interactions — not required just to play)
+* A wallet, and here’s the good part: the built-in Warpcast wallet is enough. No need to connect an external wallet unless you want to.
+* A small amount of ETH on Base for gas (used during minting or advanced interactions, but not required just to play)
 
 ***
 
@@ -65,7 +65,7 @@ Cards are drawn automatically from your deck.
   * Ultimate (utility/special)
   * Heal
 
-You don’t need to build a custom deck to start — you’ll have enough to play immediately.
+You don’t need to build a custom deck to start. You’ll have enough to play immediately.
 
 ***
 
@@ -80,7 +80,7 @@ Each turn follows this simple flow:
 
 Some cards trigger effects over multiple turns (like Burn or Buff). Others affect what you’ll draw next.
 
-Cards do not stay in hand — they refresh every turn. Plan ahead.
+Cards do not stay in hand. They refresh every turn. Plan ahead.
 
 ***
 
@@ -101,9 +101,9 @@ These effects can stack or cancel depending on card interactions.
 ## Tips for First Matches
 
 * Learn your deck. Know which cards are defensive vs. offensive.
-* Don’t spend all energy every turn — sometimes timing wins games.
+* Don’t spend all your energy every turn. Sometimes timing wins games.
 * Stack buffs before going in for a heavy attack.
-* Keep an eye on opponent’s crystal — and what they might be saving.
+* Keep an eye on your opponent’s crystal and what they might be saving.
 * Heal strategically. Sometimes 2 HP is the difference between victory and collapse.
 
 ***
@@ -126,11 +126,6 @@ Once in-game:
 
 As you play, you’ll unlock new cards, customize your deck (coming soon), and participate in events.
 
-The Farlegacy community is active on Warpcast — join discussions, strategies, and lore drops [there](https://warpcast.com/farlegacy).
+The Farlegacy community is active on Warpcast. Join discussions, strategies, and lore drops [there](https://warpcast.com/farlegacy).
 
 You’re now ready to jump in. Good luck.&#x20;
-
-
-
-
-
