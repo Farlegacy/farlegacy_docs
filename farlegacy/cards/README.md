@@ -21,7 +21,7 @@ Some of the cards have duplicates. This is to allow players to be more selective
 
 ## Key card indicators
 
-<figure><img src="../.gitbook/assets/2025-04-18_04-57-01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2025-04-18_04-57-01.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 If the card does no damage or defence, it will only display its cost in energy.

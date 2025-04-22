@@ -14,7 +14,7 @@ Farlegacy currently includes 8 defense cards, 5 of which are unique. Their main 
 
 ### FARCASTER
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1064 (1).PNG" alt="" width="188"><figcaption><p>The Gate Stands.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1064 (1).PNG" alt="" width="188"><figcaption><p>The Gate Stands.</p></figcaption></figure></div>
 
 Not just a shield. A statement. Farcaster isn’t here to stall a turn. It’s here to hold the line when everything else is burning. Carved into the card is the iconic arch, a symbol of open protocol, digital permanence, and absolute refusal to fold.
 
@@ -24,7 +24,7 @@ When this shield rises, it’s not about defense. It’s about presence.
 
 ### SHIELD V1
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1065.PNG" alt="" width="188"><figcaption><p>Basic. Blue. Braver than it looks.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1065.PNG" alt="" width="188"><figcaption><p>Basic. Blue. Braver than it looks.</p></figcaption></figure></div>
 
 {% hint style="info" %}
 This card has a duplicate.
@@ -36,7 +36,7 @@ The lightest shield in the game. Cheap, quick, and often underestimated. Don’t
 
 ### SHIELD V2
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1066.PNG" alt="" width="188"><figcaption><p>Soft pink, sharp instinct.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1066.PNG" alt="" width="188"><figcaption><p>Soft pink, sharp instinct.</p></figcaption></figure></div>
 
 {% hint style="info" %}
 This card has a duplicate.
@@ -48,7 +48,7 @@ Still modest, but a little more confident. Shield V2 is what happens when you re
 
 ### SHIELD V3
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1067.PNG" alt="" width="188"><figcaption><p>Green means go nowhere.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1067.PNG" alt="" width="188"><figcaption><p>Green means go nowhere.</p></figcaption></figure></div>
 
 {% hint style="info" %}
 This card has a duplicate.
@@ -60,7 +60,7 @@ Balanced and dependable. V3 is the defense you play when things are getting seri
 
 ### SHIELD V4
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1068.PNG" alt="" width="188"><figcaption><p>Red. Heavy. Final word.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1068.PNG" alt="" width="188"><figcaption><p>Red. Heavy. Final word.</p></figcaption></figure></div>
 
 This one doesn’t flinch. Shield V4 isn’t flashy. It’s focused. When everything’s falling apart, it plants its feet and says, “Not yet.”
 

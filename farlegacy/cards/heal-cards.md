@@ -14,7 +14,7 @@ Farlegacy currently includes 9 heal cards, 5 of which are unique. Their main col
 
 ### AERO
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1110 (1).PNG" alt="" width="188"><figcaption><p>Wipe it clean. Breathe again.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1110 (1).PNG" alt="" width="188"><figcaption><p>Wipe it clean. Breathe again.</p></figcaption></figure></div>
 
 {% hint style="info" %}
 **Ability:** Removes one negative status effect from your crystal (either burn or evade).
@@ -26,7 +26,7 @@ Aero doesn’t panic. It stabilizes. When everything’s stuck, stacked, or spir
 
 ### COBBEE
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1114.PNG" alt="" width="188"><figcaption><p>Half frog. Half caffeine.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1114.PNG" alt="" width="188"><figcaption><p>Half frog. Half caffeine.</p></figcaption></figure></div>
 
 {% hint style="info" %}
 **Ability:** Restores 2 health to your crystal.
@@ -40,7 +40,7 @@ Some cards heal with grace. This one does it with energy. And a hint of chaos.
 
 ### HIGHER
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1111.PNG" alt="" width="188"><figcaption><p>Back up. Head clear. Eyes forward.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1111.PNG" alt="" width="188"><figcaption><p>Back up. Head clear. Eyes forward.</p></figcaption></figure></div>
 
 {% hint style="info" %}
 **Ability:** Restores 3 health to your crystal.
@@ -54,7 +54,7 @@ It’s not just recovery. It’s elevation.
 
 ### OPTIMISM
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1112.PNG" alt="" width="188"><figcaption><p>No fear. Just forward.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1112.PNG" alt="" width="188"><figcaption><p>No fear. Just forward.</p></figcaption></figure></div>
 
 {% hint style="info" %}
 **Ability:** Restores 5 health to your crystal.
@@ -68,7 +68,7 @@ Optimism doesn’t patch. It restores. When all feels lost, this card reminds yo
 
 ### UNI
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1113.PNG" alt="" width="188"><figcaption><p>Born to swap. Built to shimmer.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1113.PNG" alt="" width="188"><figcaption><p>Born to swap. Built to shimmer.</p></figcaption></figure></div>
 
 {% hint style="info" %}
  **Ability:** Removes two negative status effects from your crystal (burn and evade).

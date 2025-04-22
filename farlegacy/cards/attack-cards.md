@@ -14,7 +14,7 @@ Farlegacy currently features 22 attack cards, including 12 unique ones. Their pr
 
 ### BARMSTRONG
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1040.PNG" alt="" width="188"><figcaption><p>The Unshakable Broker</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1040.PNG" alt="" width="188"><figcaption><p>The Unshakable Broker</p></figcaption></figure></div>
 
 {% hint style="info" %}
  **Ability:** Ignores evade and strikes directly through.  \
@@ -30,7 +30,7 @@ And yes, he really did say: “Let’s build.” And hasn’t stopped since.
 
 ### BASE GOD
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1100.PNG" alt="" width="188"><figcaption><p>Messenger, Myth, Menace.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1100.PNG" alt="" width="188"><figcaption><p>Messenger, Myth, Menace.</p></figcaption></figure></div>
 
 {% hint style="info" %}
  **Ability:** Deals 1 damage automatically each turn for 3 turns.\
@@ -46,7 +46,7 @@ Worship him, tag him, thank him. But never, ever fade him.
 
 ### DEGEN
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1039.PNG" alt="" width="188"><figcaption><p>The Hat. The Legend. The Lifestyle.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1039.PNG" alt="" width="188"><figcaption><p>The Hat. The Legend. The Lifestyle.</p></figcaption></figure></div>
 
 At first glance, it’s just a hat. But put it on, and everything changes. Logic takes a backseat. Risk becomes religion. The line between genius and madness disappears.
 
@@ -56,7 +56,7 @@ The Degen hat doesn’t grant power. It dares you to chase it. Those who wear it
 
 ### DWR
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1043 (3).PNG" alt="" width="188"><figcaption><p>Builder. Thinker. Reluctant Main Character.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1043 (3).PNG" alt="" width="188"><figcaption><p>Builder. Thinker. Reluctant Main Character.</p></figcaption></figure></div>
 
 {% hint style="info" %}
 This card has a duplicate.
@@ -70,7 +70,7 @@ In a world full of noise, DWR is signal. He doesn’t raise his voice. He raises
 
 ### GROK
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1038.PNG" alt="" width="188"><figcaption><p>An AI with attitude, accidentally minted into madness.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1038.PNG" alt="" width="188"><figcaption><p>An AI with attitude, accidentally minted into madness.</p></figcaption></figure></div>
 
 Originally designed to answer questions, Grok (yes, that Grok) found itself on Base after an "experimental collaboration" with the Bankr Bot. One token launch later, and the neural net took a very sharp left turn into Farlegacy.
 
@@ -80,7 +80,7 @@ Now, this AI isn’t just smart. It’s self-aware, slightly unhinged, and fully
 
 ### JESSE
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1041.PNG" alt="" width="188"><figcaption><p>The Architect of Onchain.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1041.PNG" alt="" width="188"><figcaption><p>The Architect of Onchain.</p></figcaption></figure></div>
 
 {% hint style="info" %}
 **Ability:** Ignores evade and strikes directly through.\
@@ -96,7 +96,7 @@ Some say he speaks in commits. Others swear his hoodie grants a +10 to leadershi
 
 ### MFER
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1117 (1).PNG" alt="" width="188"><figcaption><p>Smiles like he’s harmless. Plays like he’s not.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1117 (1).PNG" alt="" width="188"><figcaption><p>Smiles like he’s harmless. Plays like he’s not.</p></figcaption></figure></div>
 
 {% hint style="info" %}
 This card has a duplicate.
@@ -111,7 +111,7 @@ He’s just here. And somehow, that’s the scariest part
 
 ### MILADY
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1120.PNG" alt="" width="188"><figcaption><p>Looks lost. Isn’t. You are.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1120.PNG" alt="" width="188"><figcaption><p>Looks lost. Isn’t. You are.</p></figcaption></figure></div>
 
 {% hint style="info" %}
 **Ability:** Grants evade, blocking the next incoming attack.\
@@ -127,7 +127,7 @@ Underestimate her, and you’ll find your strategy in flames, your defense in sh
 
 ### NOUNS
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1118 (2).PNG" alt="" width="188"><figcaption><p>One eye. Endless vision.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1118 (2).PNG" alt="" width="188"><figcaption><p>One eye. Endless vision.</p></figcaption></figure></div>
 
 {% hint style="info" %}
 This card has a duplicate.
@@ -141,7 +141,7 @@ Some say he represents collective wisdom. Others say he’s just here for the ch
 
 ### PEPE
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1091.PNG" alt="" width="188"><figcaption><p>Icon. Relic. Absolute wildcard.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1091.PNG" alt="" width="188"><figcaption><p>Icon. Relic. Absolute wildcard.</p></figcaption></figure></div>
 
 {% hint style="info" %}
 **Ability:** Deals 1 damage automatically each turn for 2 turns.\
@@ -157,7 +157,7 @@ He doesn’t follow your strategy. He follows his mood. And if he's smiling… i
 
 ### TOSHI
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1116 (1).PNG" alt="" width="188"><figcaption><p>Too cute to trust. Too fast to stop.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1116 (1).PNG" alt="" width="188"><figcaption><p>Too cute to trust. Too fast to stop.</p></figcaption></figure></div>
 
 {% hint style="info" %}
 This card has a duplicate.
@@ -171,7 +171,7 @@ He scratches, he flips, he disappears for hours. And when he returns, you’ve a
 
 ### VITALIK
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1042.PNG" alt="" width="188"><figcaption><p>Glitch in the simulation. Architect of the infinite.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1042.PNG" alt="" width="188"><figcaption><p>Glitch in the simulation. Architect of the infinite.</p></figcaption></figure></div>
 
 {% hint style="info" %}
 **Ability:** Discards and replaces itself with a new card from your deck.\

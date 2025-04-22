@@ -3,16 +3,16 @@
 ## Farlegacy
 
 * [Introduction](README.md)
+* [Cards](farlegacy/cards/README.md)
+  * [Attack cards](farlegacy/cards/attack-cards.md)
+  * [Defense cards](farlegacy/cards/defense-cards.md)
+  * [Ultimate cards](farlegacy/cards/ultimate-cards.md)
+  * [Heal cards](farlegacy/cards/heal-cards.md)
 
 ***
 
 * [Crystals](crystals.md)
 * [$SHARD Token](usdshard-token.md)
-* [Cards](cards/README.md)
-  * [Attack cards](cards/attack-cards.md)
-  * [Defense cards](cards/defense-cards.md)
-  * [Ultimate cards](cards/ultimate-cards.md)
-  * [Heal cards](cards/heal-cards.md)
 
 ## Gameplay
 

@@ -14,7 +14,7 @@ Farlegacy currently includes 21 ultimate cards, 18 of which are unique. Their ma
 
 ### AIXBT
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1093.PNG" alt="" width="188"><figcaption><p>Always observing. Always optimizing.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1093.PNG" alt="" width="188"><figcaption><p>Always observing. Always optimizing.</p></figcaption></figure></div>
 
 {% hint style="info" %}
  **Ability:** Duplicates your attack this turn.
@@ -28,7 +28,7 @@ You don’t see it coming. You only see the doubled impact.
 
 ### BANKR BOT
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1095.PNG" alt="" width="188"><figcaption><p>Builder. Enabler. Unbothered</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1095.PNG" alt="" width="188"><figcaption><p>Builder. Enabler. Unbothered</p></figcaption></figure></div>
 
 {% hint style="info" %}
  **Ability:** Grants +2 energy for the next 2 turns.
@@ -42,7 +42,7 @@ It doesn’t hype. It ships.
 
 ### BASENJI
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1094.PNG" alt="" width="188"><figcaption><p>Silent. Sharp. Always watching.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1094.PNG" alt="" width="188"><figcaption><p>Silent. Sharp. Always watching.</p></figcaption></figure></div>
 
 {% hint style="info" %}
 **Ability:** Replaces itself with a defense card of your choice from the deck.
@@ -56,7 +56,7 @@ Some say it’s loyal. Others say it’s a ghost in a dog’s skin. Either way, 
 
 ### BOOST
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1101.PNG" alt="" width="188"><figcaption><p>A little extra. Just enough.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1101.PNG" alt="" width="188"><figcaption><p>A little extra. Just enough.</p></figcaption></figure></div>
 
 {% hint style="info" %}
 **Ability:** Increases the next attack’s damage by 25%.
@@ -68,7 +68,7 @@ When timing is right and pressure builds, Boost doesn’t shout. It sharpens. Qu
 
 ### BOOST V2
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1102.PNG" alt="" width="188"><figcaption><p>More fuel. Less hesitation.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1102.PNG" alt="" width="188"><figcaption><p>More fuel. Less hesitation.</p></figcaption></figure></div>
 
 {% hint style="info" %}
 **Ability:** Increases the next attack’s damage by 50%.
@@ -80,7 +80,7 @@ Boost V2 kicks in right when it matters. Not to make a statement, but to make su
 
 ### BRETT
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1096.PNG" alt="" width="188"><figcaption><p>Blue face. Base soul.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1096.PNG" alt="" width="188"><figcaption><p>Blue face. Base soul.</p></figcaption></figure></div>
 
 {% hint style="info" %}
 **Ability:** Grants evade against the next 2 incoming attacks.
@@ -94,7 +94,7 @@ No fear. Just Based.
 
 ### CLANKER
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1035.PNG" alt="" width="188"><figcaption><p>Spins up. Ships out.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1035.PNG" alt="" width="188"><figcaption><p>Spins up. Ships out.</p></figcaption></figure></div>
 
 {% hint style="info" %}
 **Ability:** Reflects the next 3 incoming attacks for 2 damage each.
@@ -108,7 +108,7 @@ You don’t ask what it’s building. You just watch it go.
 
 ### DOGINME
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1092.PNG" alt="" width="188"><figcaption><p>Unleashed. Unshaken. Unstoppable.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1092.PNG" alt="" width="188"><figcaption><p>Unleashed. Unshaken. Unstoppable.</p></figcaption></figure></div>
 
 {% hint style="info" %}
 **Ability:** Returns all discarded cards back into your deck.
@@ -120,7 +120,7 @@ Doginme is a mindset. Born from the Base community's collective grit, it embodie
 
 ### KEYCAT
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1108.PNG" alt="" width="188"><figcaption><p>Plays the keys. Pulls the strings.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1108.PNG" alt="" width="188"><figcaption><p>Plays the keys. Pulls the strings.</p></figcaption></figure></div>
 
 {% hint style="info" %}
 **Ability:** Refreshes your current 5-card hand with new cards from the deck.\
@@ -136,7 +136,7 @@ Every move has rhythm. Every glance, timing. Never underestimate a cat with perf
 
 ### MAGIC EDEN
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1099.PNG" alt="" width="188"><figcaption><p>Knows what you want before you do.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1099.PNG" alt="" width="188"><figcaption><p>Knows what you want before you do.</p></figcaption></figure></div>
 
 {% hint style="info" %}
 **Ability:** Adds 1 unplayed card to your hand at the start of your next turn.
@@ -150,7 +150,7 @@ You came to browse. You left with something rare, and maybe something more.
 
 ### MOG
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1103.PNG" alt="" width="188"><figcaption><p>Smug. Viral. Unbothered.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1103.PNG" alt="" width="188"><figcaption><p>Smug. Viral. Unbothered.</p></figcaption></figure></div>
 
 {% hint style="info" %}
 **Ability:** Replaces itself with an attack card of your choice from the deck.
@@ -164,7 +164,7 @@ In the world of Farlegacy, Mog stands as a symbol of unyielding confidence and t
 
 ### MOCHI
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1109.PNG" alt="" width="188"><figcaption><p>Soft look. Silent control.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1109.PNG" alt="" width="188"><figcaption><p>Soft look. Silent control.</p></figcaption></figure></div>
 
 {% hint style="info" %}
 **Ability:** Instantly replaces itself with an unplayed card from your deck.
@@ -178,7 +178,7 @@ It never makes a move it doesn’t mean. And it never misses.
 
 ### MOXIE
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1105.PNG" alt="" width="188"><figcaption><p>All in. No hesitation.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1105.PNG" alt="" width="188"><figcaption><p>All in. No hesitation.</p></figcaption></figure></div>
 
 {% hint style="info" %}
 **Ability:** Doubles the damage of your next attack.
@@ -190,7 +190,7 @@ Born from the onchain AI protocol, Moxie doesn’t strike. It amplifies. It watc
 
 ### MR. MIGGLES
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1119 (1).PNG" alt="" width="188"><figcaption><p>Cute exterior. Heavy recoil.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1119 (1).PNG" alt="" width="188"><figcaption><p>Cute exterior. Heavy recoil.</p></figcaption></figure></div>
 
 {% hint style="info" %}
 **Ability:** Reflects the next incoming attack for 2 damage.\
@@ -206,7 +206,7 @@ Soft? Maybe. Passive? Never.
 
 ### PAC
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1106.PNG" alt="" width="188"><figcaption><p>Fast reflexes. Faster intent.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1106.PNG" alt="" width="188"><figcaption><p>Fast reflexes. Faster intent.</p></figcaption></figure></div>
 
 {% hint style="info" %}
 **Ability:** Grants +1 energy for the next 2 turns.
@@ -218,7 +218,7 @@ Pac doesn’t pause to think. It moves with purpose the second a gap appears. As
 
 ### SUPERANON
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1090.PNG" alt="" width="188"><figcaption><p>No name. No trace. No mercy.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1090.PNG" alt="" width="188"><figcaption><p>No name. No trace. No mercy.</p></figcaption></figure></div>
 
 {% hint style="info" %}
 **Ability:** Grants evade against the next attack (excluding unblockable attacks).\
@@ -234,7 +234,7 @@ Now he watches from the rooftops. Quiet. Sharp. Unreachable. You don’t see him
 
 ### VIRTUALS
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1104.PNG" alt="" width="188"><figcaption><p>One mind? Try thousands.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1104.PNG" alt="" width="188"><figcaption><p>One mind? Try thousands.</p></figcaption></figure></div>
 
 {% hint style="info" %}
 **Ability:** Recovers 1 used card to your hand at the start of your next turn.
@@ -248,7 +248,7 @@ Virtuals don’t ask for control. They were given it, and they haven’t stopped
 
 ### ZORA
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1034 (1).PNG" alt="" width="188"><figcaption><p>It coins. The world remembers.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_1034 (1).PNG" alt="" width="188"><figcaption><p>It coins. The world remembers.</p></figcaption></figure></div>
 
 {% hint style="info" %}
 **Ability:** Reflects the next 2 incoming attacks for 2 damage each.
