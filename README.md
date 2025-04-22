@@ -12,9 +12,9 @@ Farlegacy is a cyberpunk-styled card battler built on Base and available exclusi
 
 ## About the Game
 
-Each card in the game is inspired by key figures, personalities, and iconic characters from the Base, Farcaster, and broader crypto culture. These aren’t abstract references — they’re familiar faces, projects, and memes reimagined as game mechanics.
+Each card in the game is inspired by key figures, personalities, and iconic characters from the Base, Farcaster, and broader crypto culture. These aren’t abstract references. They’re familiar faces, projects, and memes reimagined as game mechanics.
 
-This world doesn’t try to explain itself. But the deeper you go, the more it starts to make sense — or at least, feel like it should. If you want to learn where it all came from and how it began, we suggest starting with the LORE OF THE FARLEGACY.
+This world doesn’t try to explain itself. But the deeper you go, the more it starts to make sense, or at least feel like it should. If you want to learn where it all came from and how it began, we suggest starting with the LORE OF THE FARLEGACY.
 
 ## The Vision
 
