@@ -26,6 +26,7 @@ Our goal is simple: to make the player feel like they've stumbled upon something
 
 ## Official Links
 
+Site: [https://farlegacy.com/](https://farlegacy.com/)\
 X (Twitter): [https://x.com/PlayFarlegacy](https://x.com/PlayFarlegacy)\
 Warpcast: [https://warpcast.com/farlegacy](https://warpcast.com/farlegacy)\
-Discord:&#x20;
+Discord:  [https://discord.com/farlegacy](https://discord.com/farlegacy)
