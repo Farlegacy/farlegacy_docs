@@ -29,4 +29,4 @@ Our goal is simple: to make the player feel like they've stumbled upon something
 Site: [https://farlegacy.com/](https://farlegacy.com/)\
 X (Twitter): [https://x.com/PlayFarlegacy](https://x.com/PlayFarlegacy)\
 Warpcast: [https://warpcast.com/farlegacy](https://warpcast.com/farlegacy)\
-Discord:  [https://discord.com/farlegacy](https://discord.com/farlegacy)
+Discord:  TBA
