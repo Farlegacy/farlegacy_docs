@@ -80,37 +80,4 @@ Burning $SHARD is used to reduce supply and reward long-term contributors.
 
 ***
 
-## Governance: The Crystal Assembly
-
-Holders of $SHARD can participate in shaping new content and direction for the game. Voting never affects balance or economy.
-
-#### Voting Topics:
-
-* New game modes and rulesets
-* Lore expansions and featured heroes
-* Thematic direction of upcoming seasons
-* Visual concepts and community art choices
-
-#### Eligibility:
-
-* Hold and stake 10,000+ $SHARD, or
-* Own select in-game achievement NFTs
-
-Governance is community-focused and supports long-term engagement.
-
-***
-
-## Balance & Distribution
-
-* No staking APY / yield farming
-* Most tokens earned via gameplay, quests, or leaderboard events
-* Circulation is limited; utility drives demand
-* Cosmetics and social systems are the burn engine
-
-***
-
-## Long-Term Vision
-
-As Farlegacy evolves, so will the utility and significance of $SHARD. It will continue to unlock cosmetic personalization, lore-based content, and social expansion.
-
-The token is designed to scale with the world and to support those who invest their time, creativity, and decisions into it.
+##
