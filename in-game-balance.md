@@ -35,7 +35,7 @@ Target range:
 | Card      | Damage | Defence | Heal | Effect Value                  | Mana cost | Effective Value | Mana Efficiency |
 | --------- | ------ | ------- | ---- | ----------------------------- | --------- | --------------- | --------------- |
 | MFER      | 1      | 0       | 0    | 0                             | 0         | 1               | -               |
-| Nouns     | 2      | 0       | 0    | 0                             | 1         | 2               | 2.0             |
+| NOUNS     | 2      | 0       | 0    | 0                             | 1         | 2               | 2.0             |
 | SHIELD V3 | 0      | 3       | 0    | 0                             | 2         | 3               | 1.5             |
 | VITALIK   | 0      | 0       | 0    | 1 (draw a card)               | 1         | 1               | 1.0             |
 | MOXIE     | 1      | 0       | 0    | 2 (double next attack damage) | 2         | 3               | 1.5             |
