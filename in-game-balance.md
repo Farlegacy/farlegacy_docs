@@ -63,7 +63,7 @@ Under standard game conditions:
 Maximum total mana per deck cycle:
 
 ```
-Total Mana = Turns * Mana per Turn = 8 * 5 = 40
+Total Mana = Turns * Mana per Turn = 8 * 5 = 40 
 ```
 
 If a player uses only attacking cards with Mana Efficiency ≈ 2.0, they can deal:
