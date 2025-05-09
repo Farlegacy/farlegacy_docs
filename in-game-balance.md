@@ -114,7 +114,7 @@ This identity means that for a player playing perfectly (without mistakes), the 
 | H\_avg       | 3.0       | Average heal per heal card       |
 | M\_regen     | 5         | Mana regeneration per turn       |
 
-#### HP loss without defense and healing[​](https://docs.farlegacy.com/Gameplay/Balance#hp-loss-without-defense-and-healing) <a href="#hp-loss-without-defense-and-healing" id="hp-loss-without-defense-and-healing"></a>
+#### HP loss without defense and healing
 
 ```
 HP_t = HP - t * D_avg
@@ -122,7 +122,7 @@ HP_t = HP - t * D_avg
 
 After 10 turns: HP = 40 - 10 \* 3 = 10
 
-#### HP loss with defense and healing[​](https://docs.farlegacy.com/Gameplay/Balance#hp-loss-with-defense-and-healing) <a href="#hp-loss-with-defense-and-healing" id="hp-loss-with-defense-and-healing"></a>
+#### HP loss with defense and healing[​](https://docs.farlegacy.com/Gameplay/Balance#hp-loss-with-defense-and-healing)
 
 ```
 HP_t = HP - max(0, t * D_avg - t * DEF_avg - t * H_avg)
@@ -136,4 +136,3 @@ In our case: t \* D\_avg - t \* DEF\_avg - t \* H\_avg = t \* (3 - 2.5 + 1.5) = 
 | Average defense | 2          | Partially reduces damage                     |
 | Average healing | 3          | Almost compensates for damage, but not fully |
 | Total           | -2 HP/turn | The player loses 2 HP each turn              |
-
