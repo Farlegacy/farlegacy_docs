@@ -10,14 +10,14 @@ The core of the balance system is a simple formula for calculating a card’s ef
 Effective Value = Damage + Defence + Heal + Effect Value
 ```
 
-Where:
+_Where:_
 
 * _Damage — damage dealt by the card_
 * _Defence — damage blocked by the card_
 * _Heal — health restored by the card_
 * _Effect Value — numerical estimate of the card’s special ability (defined based on testing and meta-analysis)_
 
-## Card Cost Balance (Mana Efficiency) <a href="#card-cost-balance-mana-efficiency" id="card-cost-balance-mana-efficiency"></a>
+### Card Cost Balance (Mana Efficiency)
 
 For a card to be considered balanced, its efficiency relative to mana cost should stay within a target range:
 
@@ -28,9 +28,13 @@ Target range:
 1.5 ≤ Mana Efficiency ≤ 2.5
 ```
 
-<table><thead><tr><th width="225.3333740234375">Mana Efficiency	</th><th></th></tr></thead><tbody><tr><td>&#x3C; 1.5</td><td>Weak card (niche or situational usage)</td></tr><tr><td>1.5 - 2.5</td><td>Balanced card</td></tr><tr><td>>2.5</td><td>Strong card (limited by mechanics or conditions)</td></tr></tbody></table>
+| Mana Efficiency | Interpretation                                   |
+| --------------- | ------------------------------------------------ |
+| < 1.5           | Weak card (niche or situational usage)           |
+| 1.5 - 2.5       | Balanced card                                    |
+| > 2.5           | Strong card (limited by mechanics or conditions) |
 
-## Example of Card Efficiency Calculation <a href="#example-of-card-efficiency-calculation" id="example-of-card-efficiency-calculation"></a>
+#### Example of Card Efficiency Calculation
 
 | Card      | Damage | Defence | Heal | Effect Value                  | Mana cost | Effective Value | Mana Efficiency |
 | --------- | ------ | ------- | ---- | ----------------------------- | --------- | --------------- | --------------- |
@@ -38,9 +42,9 @@ Target range:
 | NOUNS     | 2      | 0       | 0    | 0                             | 1         | 2               | 2.0             |
 | SHIELD V3 | 0      | 3       | 0    | 0                             | 2         | 3               | 1.5             |
 | VITALIK   | 0      | 0       | 0    | 1 (draw a card)               | 1         | 1               | 1.0             |
-| MOXIE     | 1      | 0       | 0    | 2 (double next attack damage) | 2         | 3               | 1.5             |
+| MMOXIE    | 1      | 0       | 0    | 2 (double next attack damage) | 2         | 3               | 1.5             |
 
-### Card Effect Values <a href="#card-effect-values" id="card-effect-values"></a>
+### Card Effect Values
 
 Card effects are difficult to estimate purely with numbers, so the following approximate Effect Values are used for balancing:
 
@@ -52,7 +56,7 @@ Card effects are difficult to estimate purely with numbers, so the following app
 | + 1 mana for 2 turns        | PAC          | 2            |
 | Reflect 1 attack            | SUPERANON    | 2            |
 
-### Theoretical Battle Balance <a href="#theoretical-battle-balance" id="theoretical-battle-balance"></a>
+### Theoretical Battle Balance
 
 Under standard game conditions:
 
@@ -63,7 +67,7 @@ Under standard game conditions:
 Maximum total mana per deck cycle:
 
 ```
-Total Mana = Turns * Mana per Turn = 8 * 5 = 40 
+Total Mana = Turns * Mana per Turn = 8 * 5 = 40
 ```
 
 If a player uses only attacking cards with Mana Efficiency ≈ 2.0, they can deal:
@@ -84,7 +88,7 @@ Thus:
 Victory = Effective Value per Mana Distribution + Proper Deck Management
 ```
 
-### Key Game Balance Identity[​](https://docs.farlegacy.com/Gameplay/Balance#key-game-balance-identity) <a href="#key-game-balance-identity" id="key-game-balance-identity"></a>
+### Key Game Balance Identity
 
 ```
 Attack Potential ≈ Defence Potential + HP + Heal Potential + Game Effects
@@ -92,7 +96,7 @@ Attack Potential ≈ Defence Potential + HP + Heal Potential + Game Effects
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-#### Graph explanation[​](https://docs.farlegacy.com/Gameplay/Balance#graph-explanation) <a href="#graph-explanation" id="graph-explanation"></a>
+#### Graph explanation
 
 | **Line**      | **Meaning**                                 | **Comment**                                                           |
 | ------------- | ------------------------------------------- | --------------------------------------------------------------------- |
@@ -102,9 +106,9 @@ Attack Potential ≈ Defence Potential + HP + Heal Potential + Game Effects
 
 This identity means that for a player playing perfectly (without mistakes), the chances of victory are determined not by the raw power of cards, but by the skillful combination and usage of them.
 
-### Calculation Results[​](https://docs.farlegacy.com/Gameplay/Balance#calculation-results) <a href="#calculation-results" id="calculation-results"></a>
+### Calculation Results
 
-#### Used Values[​](https://docs.farlegacy.com/Gameplay/Balance#used-values) <a href="#used-values" id="used-values"></a>
+#### Used Values
 
 | **Variable** | **Value** | **Description**                  |
 | ------------ | --------- | -------------------------------- |
@@ -120,15 +124,17 @@ This identity means that for a player playing perfectly (without mistakes), the 
 HP_t = HP - t * D_avg
 ```
 
-After 10 turns: HP = 40 - 10 \* 3 = 10
+After 10 turns:\
+HP = 40 - 10 \* 3 = 10
 
-#### HP loss with defense and healing[​](https://docs.farlegacy.com/Gameplay/Balance#hp-loss-with-defense-and-healing)
+#### HP loss with defense and healing
 
 ```
 HP_t = HP - max(0, t * D_avg - t * DEF_avg - t * H_avg)
 ```
 
-In our case: t \* D\_avg - t \* DEF\_avg - t \* H\_avg = t \* (3 - 2.5 + 1.5) = t \* (2)
+In our case:\
+t \* D\_avg - t \* DEF\_avg - t \* H\_avg = t \* (3 - 2.5 + 1.5) = t \* (2)
 
 | **Metric**      | **Value**  | **What it means**                            |
 | --------------- | ---------- | -------------------------------------------- |
