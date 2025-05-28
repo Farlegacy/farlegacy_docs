@@ -1,20 +1,35 @@
 ---
-description: Everything you need to start your journey in Farlegacy.
+icon: gamepad-modern
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Guide
 
-Farlegacy isn’t just a card game. It’s a world. And like in any world, you’ll want to know where to click, what to collect, and how to actually get inside. This guide will take you step by step, from “just browsing” to “locked in and already deep in the fight.”
+**Welcome to the Farlegacy Guide!** \
+\
+This is your starting point for understanding how the game works, what to expect as a new player, and how to progress efficiently. This section covers the core systems, from deck building and leveling to quests, rewards, and beyond. Whether you're here to compete or just explore, this guide will help you make the most of every step.
 
 ***
 
 ## Getting Access
 
+<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+
 Before anything else, you’ll need a key, literally.
 
 To play Farlegacy, you must own a Crystal NFT. These NFTs act as access passes, representing your identity, your entry point, and your crystal in-game.
 
-Don’t have one yet? The public sale is coming soon. Keep an eye on our official channels for the announcement, giveaways, and whitelist opportunities.
+Don’t have one yet? The sale is coming soon. Keep an eye on our official channels for the announcement, giveaways, and whitelist opportunities.
 
 {% hint style="info" %}
 Owning a crystal gives you access to future drops and more in the Farlegacy universe.
@@ -24,108 +39,76 @@ Owning a crystal gives you access to future drops and more in the Farlegacy univ
 
 ## Platform & Ecosystem
 
+<figure><img src=".gitbook/assets/FarFarBas.png" alt=""><figcaption></figcaption></figure>
+
 Farlegacy is:
 
 * Built on the Base blockchain (L2, via Optimism)
-* Available exclusively via Warpcast (farcaster-native access)
+* Available exclusively via Farcaster
 
 To play, you’ll need:
 
-* Access to [Warpcast ](https://warpcast.com/)(download from [App Store](https://apps.apple.com/us/app/warpcast/id1600555445) / [Google Play](https://play.google.com/store/apps/details?id=com.farcaster.mobile))
-* A wallet, and here’s the good part: the built-in Warpcast wallet is enough. No need to connect an external wallet unless you want to.
+* Access to [Farcaster](https://farcaster.xyz/) (download from [App Store](https://apps.apple.com/us/app/warpcast/id1600555445) / [Google Play](https://play.google.com/store/apps/details?id=com.farcaster.mobile))
+* A wallet, but the built-in Farcaster wallet is all you need. To access the game, it must hold an NFT Crystal or have one verified in your Farcaster account settings
 * A small amount of ETH on Base for gas (used during minting or advanced interactions, but not required just to play)
 
 ***
 
-## Basic Game Concept
+## Match Interface Overview
 
-Your objective: Destroy the opponent’s crystal before they destroy yours.
+<figure><img src=".gitbook/assets/Game (2).png" alt=""><figcaption></figcaption></figure>
 
-* Both players start with 40 HP on their crystals.
-* You play cards from a hand of 5.
-* Each turn gives you 5 energy to spend.
-* You can attack, defend, heal, and manipulate effects using cards.
-* Some cards have unique mechanics that can reflect, bypass, or stack effects over time.
-
+{% hint style="info" %}
 Every match is turn-based and lasts about 8–12 minutes.
+{% endhint %}
 
 ***
 
 ## Your Cards
 
-Cards are drawn automatically from your deck.
+Every player starts with a ready-to-play deck of **20 cards**, the minimum required to enter a match. As you collect more cards, you can expand your deck up to a **maximum of 40**. You are free to choose any number of cards within that range, whether you prefer a lean 20-card strategy or a more versatile 40-card build.
 
-* You start with a basic deck (20 cards as a new player).
-* Max deck size: 40 cards.
-* Each turn: you draw 5 new cards.
-* After 8 turns (40 cards), your deck reshuffles.
-* Cards fall into four categories:
-  * Attack
-  * Defense
-  * Ultimate (utility/special)
-  * Heal
+During a match, you always hold five cards in hand. At the start of each turn, you draw exactly as many new cards as you played during the previous turn. Once you've cycled through your full deck, it reshuffles automatically, keeping the action flowing.
 
-You don’t need to build a custom deck to start. You’ll have enough to play immediately.
+Cards are divided into four functional categories:
+
+* Attack — deal damage to your opponent’s Crystal
+* Defense — reduce or avoid incoming damage
+* Heal — restore health to your Crystal
+* Ultimate — powerful utility or game-changing effects
+
+{% hint style="info" %}
+No custom deck is required to begin. Your starter set gives you everything you need to jump in and compete from day one.
+{% endhint %}
 
 ***
 
 ## Turn Mechanics
 
-Each turn follows this simple flow:
+Each turn:
 
-1. Draw 5 cards
-2. Get 5 energy
-3. Play cards (any number, if energy allows)
-4. End turn → opponent’s turn
-
-Some cards trigger effects over multiple turns (like Burn or Buff). Others affect what you’ll draw next.
-
-Cards do not stay in hand. They refresh every turn. Plan ahead.
+* Gain 5 energy
+* Draw as many cards as you played last turn
+* Play any number of cards (if energy allows)
+* End turn → opponent’s turn
 
 ***
 
 ## Status Effects
 
-Here are some effects you’ll encounter frequently:
+Farlegacy features a variety of status effects that shape strategy and turn outcomes. Below are the most common mechanics you'll encounter:\
 
-* Evade: Negates incoming attacks (1 or more)
-* Burn: Deals 1 damage per turn for X turns
-* Reflect: Returns fixed damage back to the attacker
-* Energy Buff: +1 or +2 energy per turn
-* Draw Mods: Manipulate future draws, recycle cards, or fetch from discard
 
-These effects can stack or cancel depending on card interactions.
+<figure><img src=".gitbook/assets/2025-05-27_12-57-37 (1).png" alt=""><figcaption></figcaption></figure>
 
-***
-
-## Tips for First Matches
-
-* Learn your deck. Know which cards are defensive vs. offensive.
-* Don’t spend all your energy every turn. Sometimes timing wins games.
-* Stack buffs before going in for a heavy attack.
-* Keep an eye on your opponent’s crystal and what they might be saving.
-* Heal strategically. Sometimes 2 HP is the difference between victory and collapse.
-
-***
-
-## How to Actually Play (UI)
-
-Once in-game:
-
-* Your crystal is displayed at the bottom center of the screen
-* Your HP is shown directly beneath the crystal
-* Your 5-card hand appears below that
-* Cards display their energy cost and effect icon
-* Tap a card → view full description
-* Drag & drop or tap to play
-* End turn manually or wait for the timer (45 seconds)
+These effects can stack, overwrite, or neutralize each other based on card interactions and timing. Mastering them is key to higher-level play.
 
 ***
 
 ## What’s Next?
 
-As you play, you’ll unlock new cards, customize your deck (coming soon), and participate in events.
+As you play, you’ll unlock new cards, refine your deck, and take part in events that test your strategy and reward your progress. Every match pushes you forward and brings new opportunities to grow stronger.
 
-The Farlegacy community is active on Warpcast. Join discussions, strategies, and lore drops [there](https://warpcast.com/farlegacy).
+The Farlegacy community lives on [Discord](https://discord.gg/farlegacy), where players share tactics, feedback, and lore. Jump in, connect with others, and become part of the city’s unfolding story.
 
-You’re now ready to jump in. Good luck.&#x20;
+You’re now ready to enter the city. Good luck.

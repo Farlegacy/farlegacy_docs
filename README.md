@@ -1,20 +1,23 @@
 ---
 description: Welcome to this world, stranger.
+icon: angle-right
 ---
 
 # Introduction
 
 {% hint style="info" %}
-Farlegacy is a cyberpunk-styled card battler built on Base and available exclusively on Warpcast.
+Farlegacy is a cyberpunk-styled card battler built on Base and available exclusively on Farcaster.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image_2025-04-17_17-46-23.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Рамка.png" alt=""><figcaption></figcaption></figure>
 
 ## About the Game
 
-Each card in the game is inspired by key figures, personalities, and iconic characters from the Base, Farcaster, and broader crypto culture. These aren’t abstract references. They’re familiar faces, projects, and memes reimagined as game mechanics.
+Each card in the game is inspired by key figures, personalities, and iconic characters from the Base, Farcaster, and broader crypto culture. These aren't abstract references. They're familiar faces, projects, and memes reimagined as game mechanics.
 
-This world doesn’t try to explain itself. But the deeper you go, the more it starts to make sense, or at least feel like it should.
+This world doesn't try to explain itself. But the deeper you go, the more it starts to make sense, or at least feel like it should. If you want to learn where it all came from and how it began, we suggest starting with the LORE OF THE FARLEGACY.
+
+***
 
 ## The Vision
 
@@ -22,12 +25,15 @@ At its core, Farlegacy is an experiment. Not just in gameplay, but in how games 
 
 We imagine a world where games are more than entertainment. They become living ecosystems, shaped by communities and deeply connected to the lore and identity of the networks they grow from. Farlegacy is not simply built on Base, it belongs to it. Every card, mechanic, and fragment of its world is inspired by the culture emerging across Farcaster, Base, and the broader crypto space.
 
-Our goal is simple: to make the player feel like they've stumbled upon something strange, a bit mysterious, but frighteningly appealing. Something that isn't immediately explained, but sticks. If after the first game you're not thinking "how to win?" but instead find yourself wondering "what the hell was that?" then it’s working properly.
+Our goal is simple: to make the player feel like they've stumbled upon something strange, a bit mysterious, but frighteningly appealing. Something that isn't immediately explained, but sticks. If after the first game you're not thinking "how to win?" but instead find yourself wondering "what the hell was that?" then it's working properly.
+
+***
 
 ## Official Links
 
-Site: [farlegacy.com](https://farlegacy.com/)\
-X (Twitter): [x.com/PlayFarlegacy](https://x.com/PlayFarlegacy)\
-Warpcast: [warpcast.com/farlegacy](https://warpcast.com/farlegacy)\
+Site: [farlegacy.com](https://farlegacy.com/) \
+X (Twitter): [x.com/PlayFarlegacy](https://x.com/PlayFarlegacy) \
+Farcaster:[ farcaster.xyz/farlegacy ](https://farcaster.xyz/farlegacy)\
 Discord: [discord.gg/farlegacy](https://discord.com/invite/farlegacy)
 
+***

@@ -3,27 +3,40 @@
 ## Farlegacy
 
 * [Introduction](README.md)
-* [Cards](farlegacy/cards/README.md)
-  * [Attack cards](farlegacy/cards/attack-cards.md)
-  * [Defense cards](farlegacy/cards/defense-cards.md)
-  * [Ultimate cards](farlegacy/cards/ultimate-cards.md)
-  * [Heal cards](farlegacy/cards/heal-cards.md)
 
 ***
 
 * [Crystals](crystals.md)
-* [$SHARD Token](usdshard-token.md)
+* [$SHARD Token](usdshard-token/README.md)
+  * [How to Earn](usdshard-token/how-to-earn.md)
+  * [Mining Season](usdshard-token/mining-season.md)
+* [Cards](cards/README.md)
+  * [Attack cards](cards/attack-cards.md)
+  * [Defense cards](cards/defense-cards.md)
+  * [Ultimate cards](cards/ultimate-cards.md)
+  * [Heal cards](cards/heal-cards.md)
 
 ## Gameplay
 
-* [Rules](gameplay/rules.md)
+* [Rules](gameplay/rules/README.md)
+  * [In-game balance](gameplay/rules/in-game-balance.md)
 
 ***
 
 * [Guide](guide.md)
-* [In-game balance](in-game-balance.md)
-* [Rewards system](rewards-system/README.md)
+* [Ranking System](ranking-system.md)
+* [Rewards System](rewards-system/README.md)
   * [Levels](rewards-system/levels.md)
   * [Quests](rewards-system/quests.md)
   * [Leaderboard](rewards-system/leaderboard.md)
+* [Clans](clans.md)
 * [Refferrals](refferrals.md)
+
+## About
+
+* [About The Game](about/about-the-game.md)
+
+***
+
+* [Terms of Use, Privacy & Legal](terms-of-use-privacy-and-legal.md)
+* [The Farlegacy Linktree](https://linktr.ee/farlegacy)
