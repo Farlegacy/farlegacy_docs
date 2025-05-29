@@ -6,10 +6,10 @@
 
 ***
 
+* [Mining Season](mining-season.md)
 * [Crystals](crystals.md)
 * [$SHARD Token](usdshard-token/README.md)
   * [How to Earn](usdshard-token/how-to-earn.md)
-  * [Mining Season](usdshard-token/mining-season.md)
 * [Cards](cards/README.md)
   * [Attack cards](cards/attack-cards.md)
   * [Defense cards](cards/defense-cards.md)

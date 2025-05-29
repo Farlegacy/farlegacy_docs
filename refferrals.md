@@ -15,7 +15,7 @@ layout:
 
 # Refferrals
 
-Referrals play a special role in Farlegacy's pre-launch ecosystem. During early campaigns like [Mining Season](usdshard-token/mining-season.md), the referral system rewards community-driven growth, amplifies visibility, and helps prepare the project for full game launch.
+Referrals play a special role in Farlegacy's pre-launch ecosystem. During early campaigns like [Mining Season](mining-season.md), the referral system rewards community-driven growth, amplifies visibility, and helps prepare the project for full game launch.
 
 {% hint style="info" %}
 **Note:** Everything described below applies specifically to pre-launch reward campaigns. In-game referral systems, if introduced, will be detailed separately after the game is live.
@@ -32,4 +32,3 @@ Players can generate a unique referral code during campaigns like Mining Season 
 You earn extra rewards when referrals remain active and complete specific campaign actions.
 
 Each referral code starts with 5 activations. Once you reach the limit, there is a 48-hour cooldown, after which the code resets with 5 new activations. This system keeps things fair and encourages long-term participation.
-
