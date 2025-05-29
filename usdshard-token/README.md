@@ -43,6 +43,6 @@ This deflationary loop helps maintain long-term value and scarcity.
 
 ## The Role of $SHARD
 
-$SHARD was never an afterthought. It was envisioned and designed alongside the game from the very beginning. It serves as the foundation that connects every system in Farlegacy into a unified economy where gameplay, community, and ownership come together.
+$SHARD is at the heart of Farlegacy. It fuels the game’s economy and reward system and connects every core mechanic from battles and quests to clans and seasonal events.
 
-Whether you are competing, building and expanding your clan, or customizing your profile to stand out, $SHARD empowers your journey. It is the currency of progress and self-expression across every layer of the Farlegacy experience.
+As you play, $SHARD becomes a reflection of your progress and presence. It lets you expand your clan, unlock new opportunities, and personalize your identity within the game. Whether you are pushing the leaderboard, coordinating with allies, or shaping your place in the city, $SHARD is what turns effort into impact.
