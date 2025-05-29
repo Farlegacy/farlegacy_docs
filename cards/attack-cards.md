@@ -1,6 +1,16 @@
 ---
-description: Hit 'Em Up!
 icon: hand-fist
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Attack cards
@@ -39,7 +49,7 @@ And yes, he really did say: “Let's build.” And hasn’t stopped since.
 This card has a duplicate.
 {% endhint %}
 
-He arrived from the digital heavens, carrying vibes. Nobody knows who invited him, but he’s here, blessing wallets and timelines alike. Some say he's just a meme. Others claim he's the reason transactions go through faster on Thursdays.
+He arrived from the digital heavens, carrying vibes. Nobody knows who invited him, but he's here, blessing wallets and timelines alike. Some say he's just a meme. Others claim he's the reason transactions go through faster on Thursdays.
 
 Worship him, tag him, thank him. But never, ever fade him.
 
@@ -75,7 +85,7 @@ In a world full of noise, DWR is signal. He doesn't raise his voice. He raises p
 
 Originally designed to answer questions, Grok (yes, that Grok) found itself on Base after an "experimental collaboration" with the Bankr Bot. One token launch later, and the neural net took a very sharp left turn into Farlegacy.
 
-Now, this AI isn't just smart. It’s self-aware, slightly unhinged, and fully integrated into the weirdest card battler on the blockchain. It doesn’t always make sense. But then again, neither does anything anymore.
+Now, this AI isn't just smart. It's self-aware, slightly unhinged, and fully integrated into the weirdest card battler on the blockchain. It doesn’t always make sense. But then again, neither does anything anymore.
 
 ***
 
@@ -89,7 +99,7 @@ Now, this AI isn't just smart. It’s self-aware, slightly unhinged, and fully i
 This card has a duplicate.
 {% endhint %}
 
-Jesse isn't just building on Base. He’s building Base itself. A relentless visionary with keyboard burns on his fingertips and a roadmap etched into his soul. Whether he’s launching protocols, rallying builders, or dropping a fire GM, he’s the kind of card you play when you want momentum on your side.
+Jesse isn't just building on Base. He's building Base itself. A relentless visionary with keyboard burns on his fingertips and a roadmap etched into his soul. Whether he's launching protocols, rallying builders, or dropping a fire GM, he's the kind of card you play when you want momentum on your side.
 
 Some say he speaks in commits. Others swear his hoodie grants a +10 to leadership. Either way, when Jesse enters the board, things start shipping fast.
 
@@ -103,16 +113,16 @@ Some say he speaks in commits. Others swear his hoodie grants a +10 to leadershi
 This card has a duplicate.
 {% endhint %}
 
-He shows up late, doesn’t read the rules, and wins anyway. MFER plays like he’s got nothing to prove and even less to lose. Opponents prepare for strategy. He brings vibes, shrugs, and pure, unfiltered “don’t care” energy.
+He shows up late, doesn't read the rules, and wins anyway. MFER plays like he's got nothing to prove and even less to lose. Opponents prepare for strategy. He brings vibes, shrugs, and pure, unfiltered “don't care” energy.
 
-He’s not here for glory. He’s not here for the meta.\
-He’s just here. And somehow, that’s the scariest part
+He's not here for glory. He's not here for the meta.\
+He's just here. And somehow, that's the scariest part.
 
 ***
 
 ### MILADY
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_1120.PNG" alt="" width="188"><figcaption><p>Looks lost. Isn’t. You are.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/IMG_1120.PNG" alt="" width="188"><figcaption><p>Looks lost. Isn't. You are.</p></figcaption></figure></div>
 
 {% hint style="info" %}
 **Ability:** Grants evade, blocking the next incoming attack.\
@@ -120,9 +130,9 @@ He’s just here. And somehow, that’s the scariest part
 This card has a duplicate.
 {% endhint %}
 
-She enters the game like she stumbled into the wrong dimension. Wide-eyed, vacant stare, and a vibe that screams “soft” until it suddenly doesn’t. Milady doesn’t follow logic. She follows moon phases, internet ghosts, and instincts no one else understands.
+She enters the game like she stumbled into the wrong dimension. Wide-eyed, vacant stare, and a vibe that screams “soft” until it suddenly doesn't. Milady doesn't follow logic. She follows moon phases, internet ghosts, and instincts no one else understands.
 
-Underestimate her, and you’ll find your strategy in flames, your defense in shambles, and her… quietly giggling as if none of it was on purpose. It was.
+Underestimate her, and you'll find your strategy in flames, your defense in shambles, and her… quietly giggling as if none of it was on purpose. It was.
 
 ***
 
@@ -134,9 +144,9 @@ Underestimate her, and you’ll find your strategy in flames, your defense in sh
 This card has a duplicate.
 {% endhint %}
 
-Nouns doesn’t speak much, which is fine because when he moves, people listen. With oversized glasses and unnerving calm, he steps onto the board like it’s a budget meeting and proceeds to dismantle your entire strategy with surgical precision.
+Nouns doesn't speak much, which is fine because when he moves, people listen. With oversized glasses and unnerving calm, he steps onto the board like it's a budget meeting and proceeds to dismantle your entire strategy with surgical precision.
 
-Some say he represents collective wisdom. Others say he’s just here for the chaos. He never clarifies. He just nods, adjusts his frames, and plays the exact card you hoped he wouldn’t.
+Some say he represents collective wisdom. Others say he's just here for the chaos. He never clarifies. He just nods, adjusts his frames, and plays the exact card you hoped he wouldn't.
 
 ***
 
@@ -152,7 +162,7 @@ This card has a duplicate.
 
 Pepe has seen things. Memes rise, tokens fall, timelines melt, and through it all, he just stares back. Blank expression. Eternal drip. Cosmic detachment. Some say he's cursed. Others say he's blessed. The truth is he’s both, and somehow neither.
 
-He doesn’t follow your strategy. He follows his mood. And if he's smiling… it might already be too late.
+He doesn't follow your strategy. He follows his mood. And if he's smiling… it might already be too late.
 
 ***
 
@@ -164,9 +174,9 @@ He doesn’t follow your strategy. He follows his mood. And if he's smiling… i
 This card has a duplicate.
 {% endhint %}
 
-Toshi isn’t just a cat. He’s a movement in a tracksuit. One paw in memecoin chaos, the other in absolute domination of the timeline. Adorable on the surface, but don’t let the pixel smile fool you. Under the hoodie beats the heart of a full-blown degen strategist.
+Toshi isn't just a cat. He's a movement in a tracksuit. One paw in memecoin chaos, the other in absolute domination of the timeline. Adorable on the surface, but don't let the pixel smile fool you. Under the hoodie beats the heart of a full-blown degen strategist.
 
-He scratches, he flips, he disappears for hours. And when he returns, you’ve already lost. Toshi doesn’t follow the game. The game updates for Toshi.
+He scratches, he flips, he disappears for hours. And when he returns, you've already lost. Toshi doesn't follow the game. The game updates for Toshi.
 
 ***
 
@@ -180,8 +190,8 @@ He scratches, he flips, he disappears for hours. And when he returns, you’ve a
 This card has a duplicate.
 {% endhint %}
 
-He doesn’t walk. He drifts. Between thoughts, between timelines, between layers of reality most people can’t pronounce. Words feel too slow for him, so he codes. Emotions are simulated but sincere. Fashion is experimental yet definitive.
+He doesn't walk. He drifts. Between thoughts, between timelines, between layers of reality most people can't pronounce. Words feel too slow for him, so he codes. Emotions are simulated but sincere. Fashion is experimental yet definitive.
 
-Some think he’s from the future. Others think he’s not from here at all. Either way, when Vitalik appears, something big is about to unfold, whether anyone's ready or not.
+Some think he's from the future. Others think he's not from here at all. Either way, when Vitalik appears, something big is about to unfold, whether anyone's ready or not.
 
 ***

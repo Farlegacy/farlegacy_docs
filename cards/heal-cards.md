@@ -1,6 +1,17 @@
 ---
 description: Patch It Up.
 icon: briefcase-medical
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Heal cards
@@ -21,7 +32,7 @@ Farlegacy currently includes 9 heal cards, 5 of which are unique. Their main col
 **Ability:** Removes one negative status effect from your crystal (either burn or evade).
 {% endhint %}
 
-Aero doesn’t panic. It stabilizes. When everything’s stuck, stacked, or spiraling, it cuts through the noise and clears the status. Quietly efficient. Brutally refreshing. You don’t always need a boost. Sometimes you just need a reset.
+Aero doesn't panic. It stabilizes. When everything's stuck, stacked, or spiraling, it cuts through the noise and clears the status. Quietly efficient. Brutally refreshing. You don't always need a boost. Sometimes you just need a reset.
 
 ***
 
@@ -33,7 +44,7 @@ Aero doesn’t panic. It stabilizes. When everything’s stuck, stacked, or spir
 **Ability:** Restores 2 health to your crystal.
 {% endhint %}
 
-Cobbee doesn’t walk. It jitters. A cup with limbs, a purpose, and probably way too much espresso in its system. It doesn’t ask how bad things are. It just shows up, piping hot, and kicks your health back into motion.
+Cobbee doesn't walk. It jitters. A cup with limbs, a purpose, and probably way too much espresso in its system. It doesn't ask how bad things are. It just shows up, piping hot, and kicks your health back into motion.
 
 Some cards heal with grace. This one does it with energy. And a hint of chaos.
 
@@ -47,9 +58,9 @@ Some cards heal with grace. This one does it with energy. And a hint of chaos.
 **Ability:** Restores 3 health to your crystal.
 {% endhint %}
 
-Higher doesn’t heal with softness. It heals with momentum. It doesn’t whisper “you’re okay.” It says, “keep going.” When the match feels heavy and the hits stack high, HIGHER kicks in like a second wind on-chain.
+Higher doesn't heal with softness. It heals with momentum. It doesn't whisper “you're okay.” It says, “keep going.” When the match feels heavy and the hits stack high, HIGHER kicks in like a second wind on-chain.
 
-It’s not just recovery. It’s elevation.
+It's not just recovery. It's elevation.
 
 ***
 
@@ -61,7 +72,7 @@ It’s not just recovery. It’s elevation.
 **Ability:** Restores 5 health to your crystal.
 {% endhint %}
 
-Optimism doesn’t patch. It restores. When all feels lost, this card reminds you that not everything is damage. It’s the calm after collapse, the breath between turns, the moment you realize you’re not done yet.
+Optimism doesn't patch. It restores. When all feels lost, this card reminds you that not everything is damage. It's the calm after collapse, the breath between turns, the moment you realize you're not done yet.
 
 **Optimism always wins.**
 
@@ -75,7 +86,7 @@ Optimism doesn’t patch. It restores. When all feels lost, this card reminds yo
  **Ability:** Removes two negative status effects from your crystal (burn and evade).
 {% endhint %}
 
-Uni doesn’t gallop. It glides. Effortless, radiant, and too graceful to bother explaining itself. It’s been everywhere, seen everything, and still shows up with a smile and a trail of sparkles.\
+Uni doesn't gallop. It glides. Effortless, radiant, and too graceful to bother explaining itself. It's been everywhere, seen everything, and still shows up with a smile and a trail of sparkles.\
 \
 People follow trends. Uni sets them without making a sound.
 

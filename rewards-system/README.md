@@ -24,7 +24,7 @@ Out of the total supply of 100,000,000 $SHARD, 65% (equal to 65,000,000 tokens) 
 
 <figure><img src="../.gitbook/assets/LvlQuestLeader (2).png" alt=""><figcaption></figcaption></figure>
 
-Here at Farlegacy, we want to give players more flexibility and choice. That’s why you can earn tokens through three main paths:
+Here at Farlegacy, we want to give players more flexibility and choice. That's why you can earn tokens through three main paths:
 
 1. **Leveling Up:** Every time you [level up](levels.md) your account, you receive a reward. These rewards include $SHARD tokens and loot boxes containing new cards. The reward system is designed to be exponential — the higher your level, the more tokens and loot boxes you earn with each milestone.
 2. **Completing Weekly Quests:** New quests become available each week. By completing them, you can earn various rewards. Depending on the type and difficulty of the quest, the reward may be XP or $SHARD tokens. More details on the quest system can be found [here](quests.md).
@@ -34,7 +34,7 @@ Here at Farlegacy, we want to give players more flexibility and choice. That’s
 
 ## Earning Rewards
 
-The smart wallet connected to your Warpcast account and Crystal NFT serves as your in-game identity. It receives everything you earn automatically:
+The smart wallet connected to your Farcaster account and Crystal NFT serves as your in-game identity. It receives everything you earn automatically:
 
 * Tokens from quests
 * Tokens for leveling up

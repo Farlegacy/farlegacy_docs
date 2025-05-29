@@ -40,7 +40,7 @@ Each card displays up to three core stats:
 <figure><img src="../.gitbook/assets/Frame 256.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-If a card doesn’t deal damage or grant defense, only its energy cost will be shown.
+If a card doesn't deal damage or grant defense, only its energy cost will be shown.
 {% endhint %}
 
 ***

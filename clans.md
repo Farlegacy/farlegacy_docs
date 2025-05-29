@@ -30,7 +30,7 @@ Founding a Clan requires spending a fixed amount of $SHARD:&#x20;
 * Expand to 20 members: 2,500 $SHARD
 * Expand to 30 members (max): 5,000 $SHARD
 
-Each expansion tier unlocks more membership slots, increases your visibility on the Clan leaderboard, and enhances your Clan’s potential in competitive events.
+Each expansion tier unlocks more membership slots, increases your visibility on the Clan leaderboard, and enhances your Clan's potential in competitive events.
 
 {% hint style="info" %}
 Only the Clan leader can initiate and pay for expansions.

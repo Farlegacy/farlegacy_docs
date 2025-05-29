@@ -20,7 +20,7 @@ There are two main types of leaderboards in the game, each of which comes in bot
 
 ## Seasonal Leaderboards
 
-The Seasonal Leaderboards are at the heart of Farlegacy’s competitive cycle. Each season spans two weeks, giving both solo players and clans a recurring chance to earn recognition and rewards.
+The Seasonal Leaderboards are at the heart of Farlegacy's competitive cycle. Each season spans two weeks, giving both solo players and clans a recurring chance to earn recognition and rewards.
 
 ### Duration and Structure
 
@@ -67,7 +67,7 @@ Event Leaderboards are dynamic, time-limited competitions tied to special game m
 
 ### Flexible Formats
 
-Every event introduces its own gameplay twist — from modified deck rules to special win conditions. As a result, each leaderboard feels different, and rewards players who can quickly adapt.
+Every event introduces it's own gameplay twist — from modified deck rules to special win conditions. As a result, each leaderboard feels different, and rewards players who can quickly adapt.
 
 * Events may last from a few days to a full week
 * Rules, matchmaking, and scoring systems are customized per event

@@ -1,6 +1,17 @@
 ---
 description: Play It When It Matters.
 icon: up-down-left-right
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Ultimate cards
@@ -21,9 +32,9 @@ Farlegacy currently includes 21 ultimate cards, 18 of which are unique. Their ma
  **Ability:** Duplicates your attack this turn.
 {% endhint %}
 
-No one’s quite sure what aixbt is. It might be a trading bot, a self-aware protocol, or just a polite ghost in the machine. But one thing’s certain: it never blinks, never hesitates, and never misses a pattern.\
+No one's quite sure what aixbt is. It might be a trading bot, a self-aware protocol, or just a polite ghost in the machine. But one thing's certain: it never blinks, never hesitates, and never misses a pattern.\
 \
-You don’t see it coming. You only see the doubled impact.
+You don't see it coming. You only see the doubled impact.
 
 ***
 
@@ -35,9 +46,9 @@ You don’t see it coming. You only see the doubled impact.
  **Ability:** Grants +2 energy for the next 2 turns.
 {% endhint %}
 
-Bankr Bot doesn’t talk much. It deploys. Quietly, relentlessly, and usually ahead of schedule. It processes thousands of transactions across every corner of the chain, executing whatever the users demand. Schemes, tokens, protocols are all just part of the workload. While others are still writing threads, Bankr is already on-chain.
+Bankr Bot doesn't talk much. It deploys. Quietly, relentlessly, and usually ahead of schedule. It processes thousands of transactions across every corner of the chain, executing whatever the users demand. Schemes, tokens, protocols are all just part of the workload. While others are still writing threads, Bankr is already on-chain.
 
-It doesn’t hype. It ships.
+It doesn't hype. It ships.
 
 ***
 
@@ -49,9 +60,9 @@ It doesn’t hype. It ships.
 **Ability:** Replaces itself with a defense card of your choice from the deck.
 {% endhint %}
 
-Basenji doesn’t bark. Doesn’t rush. Doesn’t explain. It watches from the edge, motionless and unreadable, until the moment strikes. Then it moves faster than thought. No wasted motion. No second chances.
+Basenji doesn't bark. Doesn't rush. Doesn't explain. It watches from the edge, motionless and unreadable, until the moment strikes. Then it moves faster than thought. No wasted motion. No second chances.
 
-Some say it’s loyal. Others say it’s a ghost in a dog’s skin. Either way, if you’ve seen it… it’s already seen you.
+Some say it's loyal. Others say it's a ghost in a dog's skin. Either way, if you've seen it… it's already seen you.
 
 ***
 
@@ -60,10 +71,10 @@ Some say it’s loyal. Others say it’s a ghost in a dog’s skin. Either way, 
 <div align="left"><figure><img src="../.gitbook/assets/IMG_1101.PNG" alt="" width="188"><figcaption><p>A little extra. Just enough.</p></figcaption></figure></div>
 
 {% hint style="info" %}
-**Ability:** Increases the next attack’s damage by 25%.
+**Ability:** Increases the next attack's damage by 25%.
 {% endhint %}
 
-When timing is right and pressure builds, Boost doesn’t shout. It sharpens. Quiet, quick, and exactly what you needed.
+When timing is right and pressure builds, Boost doesn't shout. It sharpens. Quiet, quick, and exactly what you needed.
 
 ***
 
@@ -72,7 +83,7 @@ When timing is right and pressure builds, Boost doesn’t shout. It sharpens. Qu
 <div align="left"><figure><img src="../.gitbook/assets/IMG_1102.PNG" alt="" width="188"><figcaption><p>More fuel. Less hesitation.</p></figcaption></figure></div>
 
 {% hint style="info" %}
-**Ability:** Increases the next attack’s damage by 50%.
+**Ability:** Increases the next attack's damage by 50%.
 {% endhint %}
 
 Boost V2 kicks in right when it matters. Not to make a statement, but to make sure the damage lands harder than expected. Clean, focused, and just a little bit unfair.
@@ -87,7 +98,7 @@ Boost V2 kicks in right when it matters. Not to make a statement, but to make su
 **Ability:** Grants evade against the next 2 incoming attacks.
 {% endhint %}
 
-Brett doesn’t explain. He just shows up, smiling, vibing, and somehow always in the right place at the weirdest time. The unofficial mascot of Base and Pepe’s most chaotic companion, he’s what happens when pure meme energy takes physical form.
+Brett doesn't explain. He just shows up, smiling, vibing, and somehow always in the right place at the weirdest time. The unofficial mascot of Base and Pepe's most chaotic companion, he's what happens when pure meme energy takes physical form.
 
 No fear. Just Based.
 
@@ -101,9 +112,9 @@ No fear. Just Based.
 **Ability:** Reflects the next 3 incoming attacks for 2 damage each.
 {% endhint %}
 
-Clanker doesn’t wait and doesn’t warm up. It boots straight into action. Designed for high-frequency deployment and memetic mayhem, it moves like a factory with no off switch.
+Clanker doesn't wait and doesn't warm up. It boots straight into action. Designed for high-frequency deployment and memetic mayhem, it moves like a factory with no off switch.
 
-You don’t ask what it’s building. You just watch it go.
+You don't ask what it's building. You just watch it go.
 
 ***
 
@@ -129,7 +140,7 @@ Doginme is a mindset. Born from the Base community's collective grit, it embodie
 This card has a duplicate.
 {% endhint %}
 
-Nobody really knows why he’s here, but somehow it always makes sense. Keycat doesn’t speak, doesn’t blink, doesn’t miss a note. He just types. Calm, focused, mildly judgmental. And the internet listens.
+Nobody really knows why he's here, but somehow it always makes sense. Keycat doesn't speak, doesn't blink, doesn't miss a note. He just types. Calm, focused, mildly judgmental. And the internet listens.
 
 Every move has rhythm. Every glance, timing. Never underestimate a cat with perfect paw placement.
 
@@ -143,7 +154,7 @@ Every move has rhythm. Every glance, timing. Never underestimate a cat with perf
 **Ability:** Adds 1 unplayed card to your hand at the start of your next turn.
 {% endhint %}
 
-Magic Eden doesn’t knock. It opens doors. A marketplace, yes, but also a labyrinth of hidden gems, last-minute steals, and temptations you swore you’d resist. Always watching. Always suggesting. \
+Magic Eden doesn't knock. It opens doors. A marketplace, yes, but also a labyrinth of hidden gems, last-minute steals, and temptations you swore you'd resist. Always watching. Always suggesting. \
 \
 You came to browse. You left with something rare, and maybe something more.
 
@@ -171,9 +182,9 @@ In the world of Farlegacy, Mog stands as a symbol of unyielding confidence and t
 **Ability:** Instantly replaces itself with an unplayed card from your deck.
 {% endhint %}
 
-Mochi doesn’t rush, doesn’t shout, and doesn’t ask for permission. It simply appears, calm, calculated, and two steps ahead. Cute? Sure. But behind the quiet charm hides pure strategic instinct..
+Mochi doesn't rush, doesn't shout, and doesn't ask for permission. It simply appears, calm, calculated, and two steps ahead. Cute? Sure. But behind the quiet charm hides pure strategic instinct..
 
-It never makes a move it doesn’t mean. And it never misses.
+It never makes a move it doesn't mean. And it never misses.
 
 ***
 
@@ -185,7 +196,7 @@ It never makes a move it doesn’t mean. And it never misses.
 **Ability:** Doubles the damage of your next attack.
 {% endhint %}
 
-Born from the onchain AI protocol, Moxie doesn’t strike. It amplifies. It watches, calculates, and waits for the perfect moment to tip the scale. When it does, what comes next lands harder than anyone expected.
+Born from the onchain AI protocol, Moxie doesn't strike. It amplifies. It watches, calculates, and waits for the perfect moment to tip the scale. When it does, what comes next lands harder than anyone expected.
 
 ***
 
@@ -199,7 +210,7 @@ Born from the onchain AI protocol, Moxie doesn’t strike. It amplifies. It watc
 This card has a duplicate.
 {% endhint %}
 
-Don’t be fooled by the whiskers. Mr. Miggles came here with a message. Launched from the depths of Base culture and backed by creator rights, he reflects more than just a smirk. He listens. He watches. And when you hit him, something hits back.
+Don't be fooled by the whiskers. Mr. Miggles came here with a message. Launched from the depths of Base culture and backed by creator rights, he reflects more than just a smirk. He listens. He watches. And when you hit him, something hits back.
 
 Soft? Maybe. Passive? Never.
 
@@ -213,7 +224,7 @@ Soft? Maybe. Passive? Never.
 **Ability:** Grants +1 energy for the next 2 turns.
 {% endhint %}
 
-Pac doesn’t pause to think. It moves with purpose the second a gap appears. As Farcade’s onchain AI, it reads the flow, finds the opening, and pushes harder than expected. It's not here to play fair. It's here to play fast.
+Pac doesn't pause to think. It moves with purpose the second a gap appears. As Farcade's onchain AI, it reads the flow, finds the opening, and pushes harder than expected. It's not here to play fair. It's here to play fast.
 
 ***
 
@@ -227,9 +238,9 @@ Pac doesn’t pause to think. It moves with purpose the second a gap appears. As
 This card has a duplicate.
 {% endhint %}
 
-Superanon came from nowhere and spoke for everyone. One account. Infinite voices. And then came a coat, a hood, and a dog that knew too much. That’s when the legend stuck.\
+Superanon came from nowhere and spoke for everyone. One account. Infinite voices. And then came a coat, a hood, and a dog that knew too much. That's when the legend stuck.\
 \
-Now he watches from the rooftops. Quiet. Sharp. Unreachable. You don’t see him coming. You just see your move, gone.
+Now he watches from the rooftops. Quiet. Sharp. Unreachable. You don't see him coming. You just see your move, gone.
 
 ***
 
@@ -241,9 +252,9 @@ Now he watches from the rooftops. Quiet. Sharp. Unreachable. You don’t see him
 **Ability:** Recovers 1 used card to your hand at the start of your next turn.
 {% endhint %}
 
-No face, no voice, just agents. Swarming across the network, trading, building, whispering in code. They don’t sleep. They don’t argue. They run.
+No face, no voice, just agents. Swarming across the network, trading, building, whispering in code. They don't sleep. They don't argue. They run.
 
-Virtuals don’t ask for control. They were given it, and they haven’t stopped since.
+Virtuals don't ask for control. They were given it, and they haven't stopped since.
 
 ***
 
@@ -255,8 +266,8 @@ Virtuals don’t ask for control. They were given it, and they haven’t stopped
 **Ability:** Reflects the next 2 incoming attacks for 2 damage each.
 {% endhint %}
 
-Zora doesn’t chase clout. It captures moments. Each coining is a marker in time, each drop a ripple in the chain. It doesn’t care who’s watching. It just builds the archive of everything that matters.\
+Zora doesn't chase clout. It captures moments. Each coining is a marker in time, each drop a ripple in the chain. It doesn't care who's watching. It just builds the archive of everything that matters.\
 \
-Some see art. Others see history. Zora sees both. Onchain, forever.
+Some see art. Others see history. Zora sees both. On-chain, forever.
 
 ***

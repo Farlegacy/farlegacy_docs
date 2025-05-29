@@ -27,7 +27,7 @@ Instead of waiting on the sidelines, you’ll dive in from day one as you mine N
 
 ## How It Works
 
-Players can participate through a mini-app integrated directly into Farcaster. Once connected, you'll be able to mint a special NFT crate every 8 hours. Each crate contains a share of the $SHARD token supply, to be revealed and distributed after the event concludes.
+Players can participate through a mini-app integrated directly into Farcaster. Once connected, you'll be able to mint a special NFT chest every 8 hours. Each chest contains a share of the $SHARD token supply, to be revealed and distributed after the event concludes.
 
 {% hint style="info" %}
 Chests are unopenable until the end of the season.

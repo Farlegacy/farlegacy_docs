@@ -56,7 +56,7 @@ drawing as many new ones as you used during the previous turn.
 
 There are four types of cards in Farlegacy, each with a distinct role in battle:
 
-* Attack — directly damage the opponent’s Crystal
+* Attack — directly damage the opponent's Crystal
 * Defense — apply a temporary shield that absorbs damage on the following turn
 * Heal — restore lost HP to your Crystal
 * Ultimate — trigger powerful effects, which may include direct damage, debuffs, or utility actions
