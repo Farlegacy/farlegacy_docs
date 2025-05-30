@@ -17,13 +17,13 @@ It powers progression, access to premium content, and player expression across t
 
 ## Overview & Tokenomics
 
-<figure><img src="../.gitbook/assets/RM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Road (2).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ## Core Utilities
 
-<figure><img src="../.gitbook/assets/Сore.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Rewardы.png" alt=""><figcaption></figcaption></figure>
 
 $SHARD is the connective tissue of Farlegacy's entire ecosystem, shaping how players progress, interact, and stand out. Whether you're climbing ranks, personalizing your identity, or leading a clan to victory, $SHARD is the fuel behind the experience. Here's how it functions across the game:
 

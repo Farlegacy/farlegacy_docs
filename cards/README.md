@@ -102,7 +102,7 @@ Decks can be saved, edited, and switched out between battles.
 
 Below is a complete overview of all the cards currently available in the Alpha version of Farlegacy. They are grouped by type: Ultimate, Attack, Heal, and Defense, each serving a unique role in battle.
 
-<figure><img src="../.gitbook/assets/Group 133.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Cards.png" alt=""><figcaption></figcaption></figure>
 
 Each card is designed to support a variety of playstyles and tactical decisions. Whether you prefer aggressive attacks, defensive setups, healing strategies, or powerful ultimates, the right combination of cards can shift the outcome of any match. Mastering how different cards interact and when to play them is key to building a competitive and effective deck.
 
