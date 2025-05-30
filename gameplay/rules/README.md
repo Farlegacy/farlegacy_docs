@@ -47,8 +47,9 @@ drawing as many new ones as you used during the previous turn.
 * You can build a deck with 20 to 40 cards.
 * Your hand always contains 5 cards at the start of each turn.
 * The deck only reshuffles automatically once you have played all cards from the deck and your hand, meaning there are no more cards to draw or play.
+*
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Экран.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -56,12 +57,7 @@ drawing as many new ones as you used during the previous turn.
 
 There are four types of cards in Farlegacy, each with a distinct role in battle:
 
-* Attack — directly damage the opponent's Crystal
-* Defense — apply a temporary shield that absorbs damage on the following turn
-* Heal — restore lost HP to your Crystal
-* Ultimate — trigger powerful effects, which may include direct damage, debuffs, or utility actions
-
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Cards (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -77,7 +73,7 @@ There are four types of cards in Farlegacy, each with a distinct role in battle:
 
 Cards can apply temporary status effects that last for multiple turns. Common ones include:
 
-<figure><img src="../../.gitbook/assets/2025-05-27_12-57-37 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Icon (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
