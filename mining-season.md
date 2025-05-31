@@ -21,7 +21,7 @@ Mining Season marks the first official event in Farlegacy, created to reward our
 
 Instead of waiting on the sidelines, you’ll dive in from day one as you mine NFT chests, bring friends into the world of Farlegacy, and get ready for the full launch.
 
-<figure><img src=".gitbook/assets/4 (3).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Портал.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
