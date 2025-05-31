@@ -50,5 +50,4 @@ Note: Trophy numbers may be adjusted during balancing and season resets.
 
 At the end of each season, all ranks undergo a partial Trophy reset. Higher-ranked players retain more of their progress, while lower ranks start closer to the base. This ensures fair competition at the start of each new season while maintaining a sense of progression for dedicated players.
 
-<figure><img src=".gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
-
+<figure><img src=".gitbook/assets/RankingTier.png" alt=""><figcaption></figcaption></figure>
