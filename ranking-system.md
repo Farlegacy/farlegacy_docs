@@ -19,7 +19,7 @@ layout:
 The Ranking System in Farlegacy tracks player progress, competitive standing, and seasonal advancement.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/Кубки.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Ранги.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
