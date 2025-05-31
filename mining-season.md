@@ -27,7 +27,7 @@ Instead of waiting on the sidelines, you’ll dive in from day one as you mine N
 
 ## 12.5% Reserved for Rewards
 
-<figure><img src=".gitbook/assets/2025-05-29_06-01-52.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/12.png" alt=""><figcaption></figcaption></figure>
 
 From the total supply of 100,000,000 $SHARD tokens, 12.5% (12,500,000 $SHARD) has been allocated to Mining Season. This makes it one of the most significant reward phases in the early lifecycle of the project.
 
@@ -39,7 +39,7 @@ The goal is to recognize early supporters and help build a thriving community of
 
 Mining Season centers around a simple but rewarding loop:
 
-<figure><img src=".gitbook/assets/2025-05-29_06-15-04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Экраны (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 &#x20;Each chest contains a share of the $SHARD token supply, to be revealed and distributed after the event concludes.&#x20;
@@ -59,7 +59,7 @@ Referrals indirectly impact your score by helping you mint more — every invite
 
 Every participant receives a unique referral code with limited activations (5 invites per cycle). Once a code is used 5 times, it refreshes after 48 hours, allowing you to invite more users.
 
-<figure><img src=".gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+
 
 Each successful referral earns you bonus NFT chests, increasing your final $SHARD conversion.
 
@@ -75,4 +75,4 @@ To convert your NFT chests into $SHARD tokens at the end of Mining Season, you m
 
 The more Crystals you own, the higher your reward multiplier. Each eligible chest you collect during the event will yield more $SHARD tokens if you hold multiple Crystals by the time the campaign ends.
 
-<figure><img src=".gitbook/assets/2025-05-29_06-46-01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/RefX (1).png" alt=""><figcaption></figcaption></figure>
