@@ -11,6 +11,8 @@
 * **Integrations**: Warpcast (via custom casts), Farcaster ID
 * **Gasless UX**: Account abstraction (ERC-4337, Bundler + Paymaster)
 
+***
+
 ## Frontend
 
 ### Stack and Features
@@ -25,6 +27,8 @@ The frontend is built using **Next.js**, **React**, and **TailwindCSS** for rapi
 * **Ethers.js** — blockchain interaction library
 * **Wagmi + RainbowKit** — wallet integration and management
 * **Zustand** — lightweight state management for client-side storage
+
+***
 
 ## Game Access (NFT Gate)
 
@@ -44,6 +48,8 @@ Access to the game is restricted to holders of a specific NFT “Player Passport
 2. The DApp calls balanceOf() on the PlayerPass contract.
 3. Upon successful validation, the UI is unlocked and an on-chain player profile is created.
 
+***
+
 ## On-Chain Logic and Account Abstraction
 
 ### Standards and Approach
@@ -55,6 +61,8 @@ All core gameplay actions — from match initiation to move submission — are *
 * **ERC-4337**: Account Abstraction
 * **Smart Accounts**: custom contracts replacing EOAs
 * **Bundler & Paymaster**: enabling gasless transactions for users
+
+***
 
 ## On-Chain Gameplay
 

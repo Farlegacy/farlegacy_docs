@@ -35,8 +35,8 @@
 ## About
 
 * [About The Game](about/about-the-game.md)
+* [Terms of Use, Privacy & Legal](https://farlegacy.com/terms)
 
 ***
 
-* [Terms of Use, Privacy & Legal](terms-of-use-privacy-and-legal.md)
 * [The Farlegacy Linktree](https://linktr.ee/farlegacy)
