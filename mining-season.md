@@ -59,7 +59,7 @@ Referrals indirectly impact your score by helping you mint more — every invite
 
 Every participant receives a unique referral code with limited activations (5 invites per cycle). Once a code is used 5 times, it refreshes after 48 hours, allowing you to invite more users.
 
-
+<figure><img src=".gitbook/assets/Refferal Reward (1).png" alt=""><figcaption></figcaption></figure>
 
 Each successful referral earns you bonus NFT chests, increasing your final $SHARD conversion.
 
