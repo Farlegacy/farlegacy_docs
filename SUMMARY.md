@@ -30,7 +30,7 @@
   * [Quests](rewards-system/quests.md)
   * [Leaderboard](rewards-system/leaderboard.md)
 * [Clans](clans.md)
-* [Refferrals](refferrals.md)
+* [Referrals](referrals.md)
 
 ## About
 
