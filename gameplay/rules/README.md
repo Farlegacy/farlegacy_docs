@@ -47,9 +47,8 @@ drawing as many new ones as you used during the previous turn.
 * You can build a deck with 20 to 40 cards.
 * Your hand always contains 5 cards at the start of each turn.
 * The deck only reshuffles automatically once you have played all cards from the deck and your hand, meaning there are no more cards to draw or play.
-*
 
-    <figure><img src="../../.gitbook/assets/Экран.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Экран.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

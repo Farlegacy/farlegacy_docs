@@ -25,7 +25,7 @@ Referrals play a special role in Farlegacy's pre-launch ecosystem. During early 
 
 ## How It Works
 
-<figure><img src=".gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2025-05-29_04-50-59.png" alt=""><figcaption></figcaption></figure>
 
 Players can generate a unique referral code during campaigns like Mining Season and beyond. Each code has a limited number of uses. When someone joins using your code, they become your referral.
 

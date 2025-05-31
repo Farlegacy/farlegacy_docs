@@ -99,7 +99,7 @@ Each turn:
 Farlegacy features a variety of status effects that shape strategy and turn outcomes. Below are the most common mechanics you'll encounter:\
 
 
-<figure><img src=".gitbook/assets/2025-05-27_12-57-37 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Icon (3).png" alt=""><figcaption></figcaption></figure>
 
 These effects can stack, overwrite, or neutralize each other based on card interactions and timing. Mastering them is key to higher-level play.
 
