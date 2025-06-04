@@ -1,6 +1,6 @@
 ---
 description: Welcome to this world, stranger.
-icon: angle-right
+icon: square-chevron-right
 ---
 
 # Introduction
