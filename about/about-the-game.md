@@ -8,7 +8,7 @@
 * **Backend / API Layer**: Node.js + tRPC (type-safe API)
 * **Blockchain**: Base (L2 on Ethereum), Solidity
 * **Storage**: IPFS (art, metadata), custom cache for match replays
-* **Integrations**: Warpcast (via custom casts), Farcaster ID
+* **Integrations**: Farcaster (via custom casts), Farcaster ID
 * **Gasless UX**: Account abstraction (ERC-4337, Bundler + Paymaster)
 
 ***
