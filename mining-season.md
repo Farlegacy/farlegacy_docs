@@ -1,4 +1,5 @@
 ---
+hidden: true
 icon: treasure-chest
 layout:
   title:
