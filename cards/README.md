@@ -57,7 +57,7 @@ These cards cannot be traded or sold.
 
 An example of such a deck and key information about the section:
 
-<figure><img src="../.gitbook/assets/Frame 236 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/deck.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

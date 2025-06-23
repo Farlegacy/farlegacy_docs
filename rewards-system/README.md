@@ -22,7 +22,7 @@ Out of the total supply of 100,000,000 $SHARD, 65% (equal to 65,000,000 tokens) 
 
 ## Ways to Earn $SHARD
 
-<figure><img src="../.gitbook/assets/LvlQuestLeader (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LvlUp (2).png" alt=""><figcaption></figcaption></figure>
 
 Here at Farlegacy, we want to give players more flexibility and choice. That's why you can earn tokens through three main paths:
 
