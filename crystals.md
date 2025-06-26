@@ -59,7 +59,7 @@ Crystal holders can influence the future of Farlegacy through on-chain voting. T
 
 The process is simple, transparent, and directly tied to Crystal ownership.
 
-<figure><img src=".gitbook/assets/Group 339 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Frame 311.png" alt=""><figcaption></figcaption></figure>
 
 ### Voting Mechanics
 
