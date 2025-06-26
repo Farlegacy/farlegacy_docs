@@ -14,7 +14,7 @@ Quests are short in-game tasks that reward you with XP and $SHARD. They refresh 
 
 All quests in the game are divided into two types:
 
-<figure><img src="../.gitbook/assets/Quests.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Квесты.png" alt=""><figcaption></figcaption></figure>
 
 Gameplay quests reflect your actions in battle, while Social quests reward meaningful participation across Farlegacy's online presence. Each week, quests are refreshed and previous ones become unavailable, regardless of their type.&#x20;
 
