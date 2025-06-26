@@ -14,7 +14,7 @@ Leaderboards track the top-performing players and clans across Farlegacy, depend
 
 There are two main types of leaderboards in the game, each of which comes in both clan and individual formats:
 
-<figure><img src="../.gitbook/assets/Leaderboards.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Enents2 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -63,7 +63,7 @@ Within each Clan, rewards are divided proportionally based on each member’s Tr
 
 Event Leaderboards are dynamic, time-limited competitions tied to special game modes or challenges. Unlike their seasonal counterparts, they adjust to the unique rules and objectives of each event.
 
-<figure><img src="../.gitbook/assets/Leader.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Eveents.png" alt=""><figcaption></figcaption></figure>
 
 ### Flexible Formats
 
