@@ -29,7 +29,7 @@ The Seasonal Leaderboards are at the heart of Farlegacy's competitive cycle. Eac
 
 ### Reward Pools
 
-<figure><img src="../.gitbook/assets/RewardPools.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Frame 329.png" alt=""><figcaption></figcaption></figure>
 
 ### Individual Rewards Breakdown
 
@@ -43,7 +43,7 @@ This ensures meaningful rewards across a broad range of competitors, while heavi
 
 ### Clan Rewards Breakdown
 
-The 500,000 $SHARD Clan prize pool is distributed between the top 5 Clans:
+The 500,000K $SHARD Clan prize pool is distributed between the top 5 Clans:
 
 1st place — 30%\
 2nd place — 25%\
