@@ -26,4 +26,4 @@ XP does not reset or expire at the start of a new season. The more you play, the
 
 In addition to unlocking access to core gameplay features like clans and exclusive events, players also receive rewards in the form of $SHARD and card loot boxes:
 
-<figure><img src="../.gitbook/assets/LvlUp1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Frame 330.png" alt=""><figcaption></figcaption></figure>
