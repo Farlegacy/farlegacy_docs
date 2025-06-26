@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# Refferrals
+# Referrals
 
 Referrals play a special role in Farlegacy's pre-launch ecosystem. During early campaigns like [Mining Season](mining-season.md), the referral system rewards community-driven growth, amplifies visibility, and helps prepare the project for full game launch.
 
@@ -25,7 +25,7 @@ Referrals play a special role in Farlegacy's pre-launch ecosystem. During early 
 
 ## How It Works
 
-<figure><img src=".gitbook/assets/Refferal Reward.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/QuestsReward (2).png" alt=""><figcaption></figcaption></figure>
 
 Players can generate a unique referral code during campaigns like Mining Season and beyond. Each code has a limited number of uses. When someone joins using your code, they become your referral.
 

@@ -17,7 +17,7 @@ It powers progression, access to premium content, and player expression across t
 
 ## Overview & Tokenomics
 
-<figure><img src="../.gitbook/assets/Road (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/График.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

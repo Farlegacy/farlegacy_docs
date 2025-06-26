@@ -26,9 +26,9 @@ Joining a Clan gives you access to:
 
 Founding a Clan requires spending a fixed amount of $SHARD:&#x20;
 
-* Create a Clan: 10,000 $SHARD
-* Expand to 20 members: 2,500 $SHARD
-* Expand to 30 members (max): 5,000 $SHARD
+* Create a Clan: 10,000K $SHARD
+* Expand to 20 members: 2,500K $SHARD
+* Expand to 30 members (max): 5,000K $SHARD
 
 Each expansion tier unlocks more membership slots, increases your visibility on the Clan leaderboard, and enhances your Clan's potential in competitive events.
 
