@@ -13,7 +13,7 @@ Farlegacy currently includes 9 heal cards, 5 of which are unique. Their main col
 
 ***
 
-### ERO
+### AERO
 
 <div align="left"><figure><img src="../.gitbook/assets/IMG_1110 (1).PNG" alt="" width="188"><figcaption><p>Wipe it clean. Breathe again.</p></figcaption></figure></div>
 

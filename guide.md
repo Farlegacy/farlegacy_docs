@@ -10,7 +10,7 @@ This is your starting point for understanding how the game works, what to expect
 
 ***
 
-## etting Access
+## Getting Access
 
 <figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 

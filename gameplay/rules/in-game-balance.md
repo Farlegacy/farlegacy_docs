@@ -5,7 +5,7 @@ icon: info
 
 # In-game balance
 
-he core of the balance system is a simple formula for calculating a card’s effectiveness:
+The core of the balance system is a simple formula for calculating a card’s effectiveness:
 
 ```
 Effective Value = Damage + Defence + Heal + Effect Value
