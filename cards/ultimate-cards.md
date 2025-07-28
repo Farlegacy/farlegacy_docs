@@ -3,7 +3,7 @@ description: Play It When It Matters.
 icon: up-down-left-right
 ---
 
-# Ultimate cards.
+# Ultimate cards
 
 {% hint style="info" %}
 Ultimate cards feature special effects and unique mechanics that do not appear in standard attack or defense cards.

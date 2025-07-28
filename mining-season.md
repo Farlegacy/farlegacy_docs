@@ -54,7 +54,7 @@ Every participant receives a unique referral code with limited activations (5 in
 Each successful referral earns you bonus NFT chests, increasing your final $SHARD conversion.
 
 {% hint style="info" %}
-Learn more in the [Referrals](referrals..md) section.
+Learn more in the [Referrals](referrals.md) section.
 {% endhint %}
 
 ***

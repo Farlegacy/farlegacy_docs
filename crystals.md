@@ -2,7 +2,7 @@
 icon: rhombus
 ---
 
-# Crystals.
+# Crystals
 
 {% hint style="info" %}
 Crystals are the only way to access Farlegacy. Your identity. Your access. Your power.

@@ -2,7 +2,7 @@
 icon: gamepad-modern
 ---
 
-# Guide.
+# Guide
 
 **Welcome to the Farlegacy Guide!** \
 \

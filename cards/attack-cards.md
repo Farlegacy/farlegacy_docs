@@ -2,7 +2,7 @@
 icon: hand-fist
 ---
 
-# Attack cards.
+# Attack cards
 
 {% hint style="info" %}
 Attack cards are the backbone of any deck. After all, how else can you eliminate your opponent's crystal?

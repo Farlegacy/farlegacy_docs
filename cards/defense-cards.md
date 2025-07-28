@@ -2,7 +2,7 @@
 icon: shield-halved
 ---
 
-# Defense cards.
+# Defense cards
 
 {% hint style="info" %}
 Defense won't win you the game. But it sure stops you from losing it.

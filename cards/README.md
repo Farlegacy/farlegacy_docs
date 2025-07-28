@@ -2,7 +2,7 @@
 icon: cards-blank
 ---
 
-# Cards.
+# Cards
 
 {% hint style="info" %}
 Cards are the core of every battle in Farlegacy, forming the foundation of your deck and your path to victory.

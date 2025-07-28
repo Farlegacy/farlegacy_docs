@@ -2,7 +2,7 @@
 icon: chart-mixed
 ---
 
-# Ranking System.
+# Ranking System
 
 {% hint style="info" %}
 The Ranking System in Farlegacy tracks player progress, competitive standing, and seasonal advancement.
