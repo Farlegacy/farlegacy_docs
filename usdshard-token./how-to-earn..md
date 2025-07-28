@@ -1,19 +1,8 @@
 ---
 icon: magnifying-glass-dollar
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
-# How to Earn
+# How to Earn.
 
 $SHARD can be earned through a variety of in-game systems that reward your skill, activity, and long-term engagement. Here are the core earning methods available to players:
 

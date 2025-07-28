@@ -1,19 +1,8 @@
 ---
 icon: handshake
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
-# Referrals
+# Referrals.
 
 Referrals play a special role in Farlegacy's pre-launch ecosystem. During early campaigns like [Mining Season](mining-season.md), the referral system rewards community-driven growth, amplifies visibility, and helps prepare the project for full game launch.
 

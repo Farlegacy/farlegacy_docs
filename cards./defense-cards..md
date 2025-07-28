@@ -1,19 +1,8 @@
 ---
 icon: shield-halved
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
-# Defense cards
+# Defense cards.
 
 {% hint style="info" %}
 Defense won't win you the game. But it sure stops you from losing it.

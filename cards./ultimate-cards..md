@@ -1,20 +1,9 @@
 ---
 description: Play It When It Matters.
 icon: up-down-left-right
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
-# Ultimate cards
+# Ultimate cards.
 
 {% hint style="info" %}
 Ultimate cards feature special effects and unique mechanics that do not appear in standard attack or defense cards.

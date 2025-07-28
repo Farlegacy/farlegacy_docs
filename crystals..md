@@ -1,19 +1,8 @@
 ---
 icon: rhombus
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
-# Crystals
+# Crystals.
 
 {% hint style="info" %}
 Crystals are the only way to access Farlegacy. Your identity. Your access. Your power.

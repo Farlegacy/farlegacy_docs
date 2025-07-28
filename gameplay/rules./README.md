@@ -1,19 +1,8 @@
 ---
 icon: book
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
-# Rules
+# Rules.
 
 Farlegacy is a fast-paced, card-based PvP game where two players compete to destroy each other's Crystal. Every match follows a consistent structure based on turns, energy, and deck cycles. This section covers all the key rules that define gameplay.
 

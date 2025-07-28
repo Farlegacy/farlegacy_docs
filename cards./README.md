@@ -1,19 +1,8 @@
 ---
 icon: cards-blank
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
-# Cards
+# Cards.
 
 {% hint style="info" %}
 Cards are the core of every battle in Farlegacy, forming the foundation of your deck and your path to victory.

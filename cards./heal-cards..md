@@ -1,20 +1,9 @@
 ---
 description: Patch It Up.
 icon: briefcase-medical
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
-# Heal cards
+# Heal cards.
 
 {% hint style="info" %}
 Heal cards restore health to your crystal. They're your best chance to recover after a heavy hit or to buy time before the next one lands.

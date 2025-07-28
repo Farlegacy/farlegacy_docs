@@ -1,19 +1,8 @@
 ---
 icon: hand-fist
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
-# Attack cards
+# Attack cards.
 
 {% hint style="info" %}
 Attack cards are the backbone of any deck. After all, how else can you eliminate your opponent's crystal?

@@ -1,19 +1,8 @@
 ---
 icon: gamepad-modern
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
-# Guide
+# Guide.
 
 **Welcome to the Farlegacy Guide!** \
 \

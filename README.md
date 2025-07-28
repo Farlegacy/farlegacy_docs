@@ -27,7 +27,7 @@ Farlegacy was never built to be a quick trend or just another game on the chain.
 
 We believe that games can be more than entertainment. They can be onchain playgrounds for identity, collaboration, and competition. They can preserve history while inventing new futures. That's why $SHARD, our native token, isn't just a reward system. It's the connective tissue that links players, creators, and builders into a shared economy of value and meaning.
 
-The long-term vision is clear. We want to create a living, breathing ecosystem powered by people. A world where every win and loss is recorded, every card tells a story, and every battle adds to something greater. Farlegacy is here to reshape what on-chain games can become
+The long-term vision is clear. We want to create a living, breathing ecosystem powered by people. A world where every win and loss is recorded, every card tells a story, and every battle adds to something greater. Farlegacy is here to reshape what on-chain games can become.
 
 ***
 
