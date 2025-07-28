@@ -10,7 +10,7 @@ Crystals are the only way to access Farlegacy. Your identity. Your access. Your 
 
 <figure><img src=".gitbook/assets/Crystals2.png" alt=""><figcaption></figcaption></figure>
 
-## hat are Crystals?
+## What are Crystals?
 
 Crystals are the foundational asset of Farlegacy, a collection of exactly 10,000 NFTs on Base. They are not optional, and they are not cosmetic. If you want to play, earn, compete or contribute, it begins here.
 
