@@ -12,7 +12,7 @@ Farlegacy currently features 22 attack cards, including 12 unique ones. Their pr
 
 ***
 
-### BARMSTRONG
+### ARMSTRONG
 
 <div align="left"><figure><img src="../.gitbook/assets/IMG_1040.PNG" alt="" width="188"><figcaption><p>The Unshakable Broker.</p></figcaption></figure></div>
 

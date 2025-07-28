@@ -13,7 +13,7 @@ Farlegacy currently includes 21 ultimate cards, 18 of which are unique. Their ma
 
 ***
 
-### AIXBT
+### IXBT
 
 <div align="left"><figure><img src="../.gitbook/assets/IMG_1093.PNG" alt="" width="188"><figcaption><p>Always observing. Always optimizing.</p></figcaption></figure></div>
 

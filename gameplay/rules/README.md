@@ -8,7 +8,7 @@ Farlegacy is a fast-paced, card-based PvP game where two players compete to dest
 
 ***
 
-## Objective
+## bjective
 
 Each player starts with 40 HP on their crystal. The goal is to reduce the opponent's crystal health to 0 before they do the same to yours.
 

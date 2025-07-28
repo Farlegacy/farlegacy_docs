@@ -12,7 +12,7 @@ Cards are the core of every battle in Farlegacy, forming the foundation of your 
 
 ***
 
-## About
+## bout
 
 Farlegacy currently features 60 total cards, including 40 unique ones, split across four main categories:
 

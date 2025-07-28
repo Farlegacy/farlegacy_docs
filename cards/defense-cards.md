@@ -12,7 +12,7 @@ Farlegacy currently includes 8 defense cards, 5 of which are unique. Their main 
 
 ***
 
-### FARCASTER
+### ARCASTER
 
 <div align="left"><figure><img src="../.gitbook/assets/IMG_1064 (1).PNG" alt="" width="188"><figcaption><p>The Gate Stands.</p></figcaption></figure></div>
 
