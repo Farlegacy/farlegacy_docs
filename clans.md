@@ -8,7 +8,7 @@ icon: people-group
 Clans are the foundation of community, coordination, and competition in Farlegacy. While solo play is possible, Clans unlock the deepest layers of the game's strategy, social dynamics, and seasonal rewards.
 {% endhint %}
 
-## What Are Clans?
+## hat Are Clans?
 
 <figure><img src=".gitbook/assets/Сlans.png" alt=""><figcaption></figcaption></figure>
 

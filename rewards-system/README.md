@@ -12,7 +12,7 @@ In this section, we'll explain how the reward system works and how you can earn 
 
 ***
 
-## Reward Allocation
+## eward Allocation
 
 <figure><img src="../.gitbook/assets/Frame 240.png" alt=""><figcaption></figcaption></figure>
 

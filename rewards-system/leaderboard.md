@@ -10,7 +10,7 @@ Leaderboards track the top-performing players and clans across Farlegacy, depend
 
 ***
 
-## Leaderboard Types
+## eaderboard Types
 
 There are two main types of leaderboards in the game, each of which comes in both clan and individual formats:
 

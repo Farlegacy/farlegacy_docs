@@ -10,7 +10,7 @@ A level in Farlegacy is a measure of your in-game progress. It reflects your exp
 
 ***
 
-## How to Level Up
+## ow to Level Up
 
 Every action you take in the game earns you experience (XP):
 

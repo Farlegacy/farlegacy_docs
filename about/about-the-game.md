@@ -64,7 +64,7 @@ All core gameplay actions — from match initiation to move submission — are *
 
 ***
 
-## On-Chain Gamepla
+## On-Chain Gameplay
 
 ### **How Data is Stored**
 
