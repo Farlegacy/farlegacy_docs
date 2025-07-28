@@ -10,7 +10,7 @@ Quests are short in-game tasks that reward you with XP and $SHARD. They refresh 
 
 ***
 
-## uest Types
+## Quest Types
 
 All quests in the game are divided into two types:
 
