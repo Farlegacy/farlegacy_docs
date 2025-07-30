@@ -12,7 +12,7 @@ Crystals are the only way to access Farlegacy. Your identity. Your access. Your 
 
 ## What are Crystals?
 
-Crystals are the foundational asset of Farlegacy, a collection of exactly 10,000 NFTs on Base. They are not optional, and they are not cosmetic. If you want to play, earn, compete or contribute, it begins here.
+Crystals are the foundational asset of Farlegacy, a collection of exactly 5,000 NFTs on Base. They are not optional, and they are not cosmetic. If you want to play, earn, compete or contribute, it begins here.
 
 Each Crystal is a permanent on-chain proof that you belong in this universe.
 
@@ -28,7 +28,7 @@ These are the core utilities tied to Crystal ownership:
 
 ## Golden Crystals
 
-Out of 10,000 Crystals, 100 are Golden. These NFTs are visually distinct and grant holders a share of all trading fees from the entire collection. This makes them both a collectible and a source of passive on-chain rewards.
+Out of 5,000 Crystals, 50 are Golden. These NFTs are visually distinct and grant holders a share of all trading fees from the entire collection. This makes them both a collectible and a source of passive on-chain rewards.
 
 ### Trading Fee Rewards
 
@@ -54,8 +54,8 @@ The process is simple, transparent, and directly tied to Crystal ownership.
 
 * **1 Crystal = 1 Vote**\
   Your voting power increases with the number of Crystals you hold
-* **Voting cap: 7 votes per user**\
-  Even if you own more, only up to 7 Crystals can be used per vote to ensure fairness and decentralization
+* **Voting cap: 5 votes per user**\
+  Even if you own more, only up to 5 Crystals can be used per vote to ensure fairness and decentralization
 * **On-chain by design**\
   All votes are recorded and executed on the Base network, with full visibility and immutability
 
@@ -85,13 +85,13 @@ This mechanic encourages committed players to expand their collection while keep
 
 * Holding more Crystals increases your in-game reward rate
 * The multiplier applies to XP and all in-game rewards, excluding future airdrops
-* **Maximum stacking cap: 7 Crystals**\
-  Holding more than 7 does not increase your multiplier further
+* **Maximum stacking cap: 5 Crystals**\
+  Holding more than 5 does not increase your multiplier further
 
-<table><thead><tr><th align="center">Crystals Held</th><th align="center" valign="middle">Reward Multiplier</th></tr></thead><tbody><tr><td align="center">1</td><td align="center" valign="middle">1.0x</td></tr><tr><td align="center">2</td><td align="center" valign="middle">1.3x</td></tr><tr><td align="center">3</td><td align="center" valign="middle">1.6x</td></tr><tr><td align="center">4</td><td align="center" valign="middle">2.0x</td></tr><tr><td align="center">5</td><td align="center" valign="middle">2.5x</td></tr><tr><td align="center">6</td><td align="center" valign="middle">3.0x</td></tr><tr><td align="center">7 or more</td><td align="center" valign="middle">3.5x (max)</td></tr></tbody></table>
+<table><thead><tr><th align="center">Crystals Held</th><th align="center" valign="middle">Reward Multiplier</th></tr></thead><tbody><tr><td align="center">1</td><td align="center" valign="middle">1.0x</td></tr><tr><td align="center">2</td><td align="center" valign="middle">1.3x</td></tr><tr><td align="center">3</td><td align="center" valign="middle">1.6x</td></tr><tr><td align="center">4</td><td align="center" valign="middle">2.0x</td></tr><tr><td align="center">5</td><td align="center" valign="middle">2.5x</td></tr></tbody></table>
 
 {% hint style="info" %}
-Holding more Crystals increases your XP and in-game rewards up to 3.5x at full stack.
+Holding more Crystals increases your XP and in-game rewards up to 2.5x at full stack.
 {% endhint %}
 
 ### Additional Stacking Benefits
