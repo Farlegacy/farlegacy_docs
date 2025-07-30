@@ -4,7 +4,7 @@
 
 ### Component Overview
 
-* **Frontend**: Next.js + React + TailwindCSS
+* **Frontend**: Next.js + React + TailwindCSS + custom
 * **Backend / API Layer**: Node.js + tRPC (type-safe API)
 * **Blockchain**: Base (L2 on Ethereum), Solidity
 * **Storage**: IPFS (art, metadata), custom cache for match replays
@@ -34,7 +34,7 @@ The frontend is built using **Next.js**, **React**, and **TailwindCSS** for rapi
 
 ### NFT-Based Access
 
-Access to the game is restricted to holders of a specific NFT “Player Passport.” When a wallet is connected, the system checks whether the address owns a valid NFT.
+The game is only accessible to holders of a Crystal NFT. When a wallet is connected, the system checks whether the valid address owns a NFT.
 
 #### Standard Used:
 
