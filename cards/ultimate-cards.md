@@ -217,6 +217,18 @@ Pac doesn't pause to think. It moves with purpose the second a gap appears. As F
 
 ***
 
+### PENGU
+
+<div align="left"><figure><img src="../.gitbook/assets/image_2025-08-05_17-34-57.png" alt="" width="188"><figcaption></figcaption></figure></div>
+
+{% hint style="info" %}
+**Ability:** Instantly replaces itself with an unplayed card from your deck.
+{% endhint %}
+
+Pengu may look cuddly, but it’s all business when it slides into the fight. With a cool head and colder wings, it deflects danger while keeping teammates covered. It’s not loud. It’s not flashy. It just shows up and does the job. One shield at a time.
+
+***
+
 ### SUPERANON
 
 <div align="left"><figure><img src="../.gitbook/assets/IMG_1090.PNG" alt="" width="188"><figcaption><p>No name. No trace. No mercy.</p></figcaption></figure></div>
