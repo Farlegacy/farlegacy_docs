@@ -14,9 +14,9 @@ Cards are the core of every battle in Farlegacy, forming the foundation of your 
 
 ## About
 
-Farlegacy currently features 60 total cards, including 40 unique ones, split across four main categories:
+Farlegacy currently features 61 total cards, including 41 unique ones, split across four main categories:
 
-<table><thead><tr><th width="86.99993896484375">Type</th><th align="center">Attack cards</th><th align="center">Defense cards</th><th align="center">Ultimate cards</th><th align="center">Heal cards</th></tr></thead><tbody><tr><td>Amount</td><td align="center">22 pcs.</td><td align="center">8 pcs.</td><td align="center">21 pcs.</td><td align="center">9 pcs.</td></tr><tr><td>Сolor</td><td align="center">Purple</td><td align="center">Orange</td><td align="center">Red</td><td align="center">Green</td></tr></tbody></table>
+<table><thead><tr><th width="86.99993896484375">Type</th><th align="center">Attack cards</th><th align="center">Defense cards</th><th align="center">Ultimate cards</th><th align="center">Heal cards</th></tr></thead><tbody><tr><td>Amount</td><td align="center">22 pcs.</td><td align="center">8 pcs.</td><td align="center">22 pcs.</td><td align="center">9 pcs.</td></tr><tr><td>Сolor</td><td align="center">Purple</td><td align="center">Orange</td><td align="center">Red</td><td align="center">Green</td></tr></tbody></table>
 
 Some of the cards have duplicates. This is to allow players to be more selective in assembling their own deck based on their strategy and also to achieve a better game balance.
 
