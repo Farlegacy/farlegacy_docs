@@ -6,7 +6,8 @@
 
 ***
 
-* [Mining Season](mining-season.md)
+* [Airdrop & Mining Season](airdrop-and-mining-season/README.md)
+  * [Eligibility Criteria](airdrop-and-mining-season/eligibility-criteria.md)
 * [Crystals](crystals.md)
 * [$SHARD Token](usdshard-token/README.md)
   * [How to Earn](usdshard-token/how-to-earn.md)
