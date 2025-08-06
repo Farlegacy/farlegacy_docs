@@ -35,7 +35,7 @@ Mining Season is a limited-time event where users compete and collaborate to ear
 
 * Each player receives a referral code with 5 activations.
 * When someone joins with your code and claims at least one Chest, you receive 1 bonus Chest.
-* Every 48 hours, your code is refreshed with 5 new activations.
+* Once all 5 activations are used, your code will be refreshed with 5 new ones after 48 hours.
 
 ### Crystal Requirement
 
