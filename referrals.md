@@ -5,7 +5,7 @@ icon: handshake
 
 # Referrals
 
-Referrals play a special role in Farlegacy's pre-launch ecosystem. During early campaigns like [Mining Season](airdrop-and-mining-season/), the referral system rewards community-driven growth, amplifies visibility, and helps prepare the project for full game launch.
+Referrals play a special role in Farlegacy's pre-launch ecosystem. During early campaigns like [Mining Season](mining-season.md), the referral system rewards community-driven growth, amplifies visibility, and helps prepare the project for full game launch.
 
 {% hint style="info" %}
 **Note:** Everything described below applies specifically to pre-launch reward campaigns. In-game referral systems, if introduced, will be detailed separately after the game is live.

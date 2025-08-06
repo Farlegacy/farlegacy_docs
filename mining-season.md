@@ -5,15 +5,15 @@ icon: treasure-chest
 
 # Airdrop & Mining Season
 
-<figure><img src="../.gitbook/assets/hджэд.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/hджэд.png" alt=""><figcaption></figcaption></figure>
 
 ## Overview
 
 Airdrop & Mining Season is the first major campaign in the Farlegacy universe. It is designed to gather an early, engaged community ahead of the game's full launch, and reward them meaningfully for their early involvement.
 
-In total, 20% of the total[ $SHARD token](../usdshard-token/) supply is allocated to this campaign:
+In total, 20% of the total[ $SHARD token](usdshard-token/) supply is allocated to this campaign:
 
-<figure><img src="../.gitbook/assets/Group 2087329630.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Group 2087329630.png" alt=""><figcaption></figcaption></figure>
 
 This campaign is your first opportunity to start earning $SHARD and position yourself ahead of the game's release.
 
@@ -21,7 +21,7 @@ This campaign is your first opportunity to start earning $SHARD and position you
 
 ## Mining Season
 
-<figure><img src="../.gitbook/assets/Group 2087329632.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Group 2087329632.png" alt=""><figcaption></figcaption></figure>
 
 Mining Season is a limited-time event where users compete and collaborate to earn Chests, which will later be converted into $SHARD tokens.
 
@@ -51,7 +51,7 @@ This model encourages timely action, supports the ecosystem's growth through the
 
 ## Airdrop
 
-<figure><img src="../.gitbook/assets/Group 2087329633.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Group 2087329633.png" alt=""><figcaption></figcaption></figure>
 
 #### Key Points
 
@@ -60,7 +60,7 @@ This model encourages timely action, supports the ecosystem's growth through the
 * Eligible users must claim their share through the Farlegacy app once the claiming is live.
 
 {% hint style="info" %}
-All eligibility criteria are collected [here](eligibility-criteria.md), where you'll find a full breakdown of how eligibility is determined. The article includes details on the snapshot date, the total number of eligible wallets, and the full distribution logic.
+All eligibility criteria are collected [here](airdrop-and-mining-season/eligibility-criteria.md), where you'll find a full breakdown of how eligibility is determined. The article includes details on the snapshot date, the total number of eligible wallets, and the full distribution logic.
 {% endhint %}
 
 ***
