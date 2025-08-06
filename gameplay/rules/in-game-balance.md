@@ -64,6 +64,7 @@ Under standard game conditions:
 * 5 mana per turn
 * 8 turns before deck reset
 * 40 HP per player
+* Deck only cycles after all cards in hand and deck are used
 
 Maximum total mana per deck cycle:
 
@@ -77,11 +78,12 @@ If a player uses only attacking cards with Mana Efficiency ≈ 2.0, they can dea
 Max Damage = Total Mana * Mana Efficiency = 40 * 2 = 80
 ```
 
-Meanwhile, the opponent has:
+In reality, this number is much lower due to:
 
-* 40 HP
-* Defensive and healing cards
-* Counterplay effects
+* card limitations (deck size and hand size)
+* mana cost distribution
+* need for defense and healing
+* tactical card draw randomness
 
 Thus:
 
@@ -95,9 +97,11 @@ Victory = Effective Value per Mana Distribution + Proper Deck Management
 Attack Potential ≈ Defence Potential + HP + Heal Potential + Game Effects
 ```
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+That is, Total Effective Output of a cycle ≈ Defensive tools + Healing + Remaining HP + Tactical value of effects
 
-#### Graph explanation[​](https://docs.farlegacy.com/Gameplay/Balance#graph-explanation) <a href="#graph-explanation" id="graph-explanation"></a>
+<figure><img src="../../.gitbook/assets/output.png" alt=""><figcaption></figcaption></figure>
+
+**Graph explanation**[​](https://docs.farlegacy.com/Gameplay/Balance#graph-explanation)
 
 | **Line**      | **Meaning**                                 | **Comment**                                                           |
 | ------------- | ------------------------------------------- | --------------------------------------------------------------------- |
@@ -134,6 +138,8 @@ HP_t = HP - max(0, t * D_avg - t * DEF_avg - t * H_avg)
 ```
 
 In our case: t \* D\_avg - t \* DEF\_avg - t \* H\_avg = t \* (3 - 2.5 + 1.5) = t \* (2)
+
+This suggests no HP loss, but only for as long as defense and heal cards are available, which is limited by deck size and mana budget.
 
 | **Metric**      | **Value**  | **What it means**                            |
 | --------------- | ---------- | -------------------------------------------- |
