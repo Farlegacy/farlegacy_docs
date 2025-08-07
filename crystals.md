@@ -32,7 +32,7 @@ Out of 5,000 Crystals, 50 are Golden. These NFTs are visually distinct and grant
 
 ### Trading Fee Rewards
 
-* Golden holders receive 1% each from 100% of secondary market royalties
+* Golden holders receive 2% each from 100% of secondary market royalties
 * Rewards are sent automatically to the holder's Farcaster-linked in-game wallet
 * No claiming or action required — just hold to earn
 
