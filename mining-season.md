@@ -5,7 +5,7 @@ icon: treasure-chest
 
 # Airdrop & Mining Season
 
-<figure><img src=".gitbook/assets/hджэд.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Frame 1321314938.png" alt=""><figcaption></figcaption></figure>
 
 ## Overview
 
@@ -13,7 +13,7 @@ Airdrop & Mining Season is the first major campaign in the Farlegacy universe. I
 
 In total, 20% of the total[ $SHARD token](usdshard-token/) supply is allocated to this campaign:
 
-<figure><img src=".gitbook/assets/Group 2087329630.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Frame 12273.png" alt=""><figcaption></figcaption></figure>
 
 This campaign is your first opportunity to start earning $SHARD and position yourself ahead of the game's release.
 
@@ -21,7 +21,7 @@ This campaign is your first opportunity to start earning $SHARD and position you
 
 ## Mining Season
 
-<figure><img src=".gitbook/assets/Group 2087329632.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Frame 152271.png" alt=""><figcaption></figcaption></figure>
 
 Mining Season is a limited-time event where users compete and collaborate to earn Chests, which will later be converted into $SHARD tokens.
 
@@ -51,7 +51,7 @@ This model encourages timely action, supports the ecosystem's growth through the
 
 ## Airdrop
 
-<figure><img src=".gitbook/assets/Group 2087329633.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Frame 12270.png" alt=""><figcaption></figcaption></figure>
 
 #### Key Points
 
@@ -67,11 +67,11 @@ All eligibility criteria are collected [here](airdrop-and-mining-season/eligibil
 
 ## Timeline
 
-* **Airdrop & Mining Season Launch:** -
-* **Duration:** -
-* **Crystal NFT Mint:** -
-* **Token Generation Event (TGE):** -
-* **Conversion of Chests into $SHARD:** Begins post-TGE
+* **Airdrop & Mining Season Launch:** 18 августа в 18:00 (UTC)
+* **Duration:** 7 дней&#x20;
+* **Crystal NFT Mint:** 25 августа в 18:00 (UTC)
+* **Token Generation Event (TGE):** 29 августа в 18:00 (UTC)
+* **Открытие клейма $SHARD:** 30 августа в 18:00 (UTC)
 
 ***
 
