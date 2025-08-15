@@ -19,7 +19,9 @@ The Airdrop & Mining Season campaign consists of two reward pools, each receivin
 1. **Initial Airdrop (10%):** Distributed to active ecosystem users captured in the snapshot.
 2. **Mining Season Rewards (10%)**: Distributed to participants who collect Chests during the Mining Season, including those earned from referrals.
 
-### **1. Initial Airdrop**
+***
+
+## **1. Initial Airdrop**
 
 **Supply:** 10,000,000,000 $SHARD (10% of total supply)
 
@@ -32,6 +34,10 @@ There are two ways to qualify for the Initial Airdrop:
 ***
 
 ### Eligible Tokens List
+
+{% hint style="info" %}
+
+{% endhint %}
 
 | Token name                  | Contract Address                                                                                                               |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -61,47 +67,97 @@ There are two ways to qualify for the Initial Airdrop:
 | Virtual Protocol ($VIRTUAL) | [0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b](https://basescan.org/token/0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b)            |
 | Zora ($ZORA)                | [0x1111111111166b7fe7bd91427724b487980afc69](https://basescan.org/token/0x1111111111166b7fe7bd91427724b487980afc69)            |
 
+***
 
+## 2. Mining Season Airdrop
 
+**Supply:** 10,000,000,000 $SHARD (10% of total supply)
 
+During the Mining Season, users can earn Chests every **8 hours** in the **Mine** tab or by inviting others through referral codes. All Chests collected during the event will be converted into $SHARD after the campaign ends.
 
+**Key Notes:**
 
+* There is no limit to the number of Chests a user can collect.
+* The more Chests you collect, the larger your share of the $SHARD pool.
+* The leaderboard reflects top participants based on Chest count.
 
+***
 
+## Reward Formula and Distribution Logic
 
+At the end of the Mining Season, the fixed Pool of **10,000,000,000 $SHARD** will be distributed using a Weighted Redistribution Model.
 
+This ensures that rewards remain within the original supply cap while applying Crystal NFT multipliers.
 
+### Step 1: Base Allocation
 
+First, rewards are calculated based on the number of Chests each user has collected.
 
+**Formula:**
 
+```
+User Base Reward = (10,000,000,000 × User Chests) ÷ Total Chests
+```
 
+**Example:**\
+Total Chests collected by all participants: **10,000**\
+User A collected **200 Chests**
 
+```
+User Base Reward = (10,000,000,000 × 200) ÷ 10,000 = 200,000,000 $SHARD
+```
 
+### Step 2: Eligibility Filter (Crystal Requirement)
 
+Only users holding at least 1 Crystal NFT after the Crystal Sale can claim their rewards.\
+Allocations from non-holders are removed from the pool and returned for redistribution among Crystal holders.
 
+**Example:**\
+Out of 10,000 Chests, 2,500 belong to non-holders.\
+The corresponding rewards are:
 
+```
+Non-holder allocation = (10,000,000,000 × 2,500) ÷ 10,000 = 2,500,000,000 $SHARD
+```
 
+These **2,500,000,000 $SHARD** are returned to the pool for redistribution among Crystal holders.
 
+### Step 3: Weighted Redistribution with Multipliers
 
+Each Crystal holder’s final allocation is weighted by a multiplier based on the number of Crystals they own:
 
+| Crystals Owned | Multiplier |
+| -------------- | ---------- |
+| 1              | 1.0×       |
+| 2              | 1.3×       |
+| 3              | 1.6×       |
+| 4              | 2.0×       |
+| 5+             | 2.5×       |
 
+The redistribution works as follows:
 
+1.  Calculate each eligible user’s **weighted chests**:
 
+    ```
+    Weighted Chests = User Chests × Multiplier
+    ```
+2. Sum the total weighted chests across all Crystal holders.
+3. Divide the entire redistributed pool proportionally to these weighted chests.
 
+**Example:**\
+After removing non-holders, there are 7,500 eligible Chests.\
+The total weighted chests, after applying multipliers, amount to 9,750.\
+If User A has 200 Chests and owns 3 Crystals (1.6× multiplier):
 
+```
+Weighted Chests = 200 × 1.6 = 320
+Final Reward = (10,000,000,000 × 320) ÷ 9,750 = 328,205,128 $SHARD
+```
 
+***
 
+#### Key Points
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+* The pool is fixed at **10% of total supply** (10,000,000,000 $SHARD) for the Mining Season.
+* No tokens are created beyond the allocation.
+* Redistribution and multipliers happen **after** the Crystal Sale ends and non-holder allocations are removed.
