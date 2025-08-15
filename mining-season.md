@@ -61,7 +61,7 @@ This ensures that rewards go to those who hold a stake in the Farlegacy universe
 <figure><img src=".gitbook/assets/Frame 152271.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-All eligibility criteria are collected [here](airdrop-and-mining-season/eligibility-criteria.md), where you'll find a full breakdown of how eligibility is determined. The article includes details on the snapshot date, the total number of eligible wallets, and the full distribution logic.
+All eligibility criteria are collected [here](airdrop-and-mining-season/distribution-details.md), where you'll find a full breakdown of how eligibility is determined. The article includes details on the snapshot date, the total number of eligible wallets, and the full distribution logic.
 {% endhint %}
 
 ***
@@ -81,36 +81,3 @@ All eligibility criteria are collected [here](airdrop-and-mining-season/eligibil
 Funds raised from the Crystal NFT sale will be used to provide liquidity for $SHARD on decentralized exchanges. This ensures that early community participants benefit from real token utility and a healthy on chain economy.
 
 No team tokens will be distributed before the community receives their share. The campaign comes first.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
