@@ -35,9 +35,7 @@ There are two ways to qualify for the Initial Airdrop:
 
 ### Eligible Tokens List
 
-{% hint style="info" %}
-
-{% endhint %}
+<figure><img src="../.gitbook/assets/Экспорт.png" alt=""><figcaption></figcaption></figure>
 
 | Token name                  | Contract Address                                                                                                               |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
