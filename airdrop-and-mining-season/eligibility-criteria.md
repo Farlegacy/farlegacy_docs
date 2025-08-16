@@ -9,7 +9,7 @@ This article provides a complete breakdown of how the 20% $SHARD allocation for 
 | Mining Season Rewards  | 10% of supply (10,000,000,000 $SHARD)                                                                                              |
 | Criteria-based Airdrop | 10% of supply (10,000,000,000 $SHARD)                                                                                              |
 | Number of Criteria     | 25 eligible tokens and 9 eligible NFT collections. Holding any of them above the required threshold qualifies you for the airdrop. |
-| Snapshot Date          | <p>August 15, 2025 00:00:00 UTC</p><p></p><p>Base Block Number:  </p>                                                              |
+| Snapshot Date          | <p>August 14, 2025 23:59:59 UTC</p><p></p><p>Base Block Number:  <a href="https://basescan.org/block/34213326">34213326</a></p>    |
 | Total Eligible Wallets |                                                                                                                                    |
 
 ## Overview
