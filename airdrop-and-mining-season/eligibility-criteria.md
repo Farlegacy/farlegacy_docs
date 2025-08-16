@@ -39,9 +39,9 @@ There are two ways to qualify for the Initial Airdrop:
 
 | Token name                  | Contract Address                                                                                                               |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| Aerodrome ($AERO)           | [0x940181a94a35a4569e4529a3cdfb74e38fd98631](https://basescan.org/token/0x940181a94a35a4569e4529a3cdfb74e38fd98631)            |
-| aixbt by Virtuals ($AIXBT)  | [0x4f9fd6be4a90f2620860d680c0d4d5fb53d1a825](https://basescan.org/token/0x4f9fd6be4a90f2620860d680c0d4d5fb53d1a825)            |
-| BankrCoin ($BNKR)           | [0x22af33fe49fd1fa80c7149773dde5890d3c76f3b](https://basescan.org/token/0x22af33fe49fd1fa80c7149773dde5890d3c76f3b)            |
+| Aerodrome ($AERO)           | [0x940181...d98631](https://basescan.org/token/0x940181a94a35a4569e4529a3cdfb74e38fd98631)                                     |
+| aixbt by Virtuals ($AIXBT)  | [0x4f9fd6...d1a825](https://basescan.org/token/0x4f9fd6be4a90f2620860d680c0d4d5fb53d1a825)                                     |
+| BankrCoin ($BNKR)           | [0x22af33...c76f3b](https://basescan.org/token/0x22af33fe49fd1fa80c7149773dde5890d3c76f3b)                                     |
 | Base God ($TYBG)            | [0x0d97f261b1e88845184f678e2d1e7a98d9fd38de](https://basescan.org/token/0x0d97f261b1e88845184f678e2d1e7a98d9fd38de)            |
 | Basenji ($BENJI)            | [0xbc45647ea894030a4e9801ec03479739fa2485f0](https://basescan.org/token/0xbc45647ea894030a4e9801ec03479739fa2485f0)            |
 | Brett ($BRETT)              | [0x532f27101965dd16442e59d40670faf5ebb142e4](https://basescan.org/token/0x532f27101965dd16442e59d40670faf5ebb142e4)            |
@@ -81,48 +81,44 @@ During the Mining Season, users can earn Chests every **8 hours** in the **Mine*
 
 ***
 
-## Reward Formula and Distribution Logic
+## Reward Formula
 
-At the end of the Mining Season, the fixed Pool of **10,000,000,000 $SHARD** will be distributed using a Weighted Redistribution Model.
+At the end of the Mining Season, rewards come from two pools:
 
-This ensures that rewards remain within the original supply cap while applying Crystal NFT multipliers.
+* **Initial Airdrop Pool**: 10% of total supply (**10,000,000,000 $SHARD**)
+* **Mining Pool**: 10% of total supply (**10,000,000,000 $SHARD**)
 
-### Step 1: Base Allocation
+Both are distributed first to all eligible users. If a user does not own at least one Crystal NFT after the Crystal Sale, their entire allocation is returned to the **Redistribution Pool**.
 
-First, rewards are calculated based on the number of Chests each user has collected.
+Final distribution is then recalculated among Crystal holders with multipliers applied.
 
-**Formula:**
+***
 
-```
-User Base Reward = (10,000,000,000 × User Chests) ÷ Total Chests
-```
+## Example Calculation
 
-**Example:**\
-Total Chests collected by all participants: **10,000**\
-User A collected **200 Chests**
+### **Step 1: Mining Season**
 
-```
-User Base Reward = (10,000,000,000 × 200) ÷ 10,000 = 200,000,000 $SHARD
-```
+10,000 Chests are collected in total.\
+Mining Pool = 10,000,000,000 $SHARD ÷ 10,000 = **1,000,000 $SHARD per Chest**.
 
-### Step 2: Eligibility Filter (Crystal Requirement)
+Bob collects 25 Chests → **25,000,000 $SHARD**.
 
-Only users holding at least 1 Crystal NFT after the Crystal Sale can claim their rewards.\
-Allocations from non-holders are removed from the pool and returned for redistribution among Crystal holders.
+### **Step 2: Initial Airdrop**
 
-**Example:**\
-Out of 10,000 Chests, 2,500 belong to non-holders.\
-The corresponding rewards are:
+Bob also qualifies for 125,000 $SHARD from the Initial Airdrop Pool.\
+His **total initial allocation** = **25,125,000 $SHARD**.
 
-```
-Non-holder allocation = (10,000,000,000 × 2,500) ÷ 10,000 = 2,500,000,000 $SHARD
-```
+### **Step 3: Redistribution Pool**
 
-These **2,500,000,000 $SHARD** are returned to the pool for redistribution among Crystal holders.
+Across all users without Crystals:
 
-### Step 3: Weighted Redistribution with Multipliers
+* 2,000,000,000 $SHARD from Initial Airdrop
+* 2,500,000,000 $SHARD from Mining Rewards\
+  Redistribution Pool = **4,500,000,000 $SHARD**
 
-Each Crystal holder’s final allocation is weighted by a multiplier based on the number of Crystals they own:
+### Step 4: Multipliers
+
+Crystal multipliers apply to user allocations:
 
 | Crystals Owned | Multiplier |
 | -------------- | ---------- |
@@ -132,30 +128,37 @@ Each Crystal holder’s final allocation is weighted by a multiplier based on th
 | 4              | 2.0×       |
 | 5+             | 2.5×       |
 
-The redistribution works as follows:
+Bob owns 2 Crystals → multiplier **1.3x**.\
+His weighted allocation = **25,125,000 × 1.3 = 32,662,500**.
 
-1.  Calculate each eligible user’s **weighted chests**:
+{% hint style="info" %}
+All weighted allocations are summed across Crystal holders. Redistribution Pool (4,500,000,000 $SHARD) is distributed proportionally to these weights.
+{% endhint %}
 
-    ```
-    Weighted Chests = User Chests × Multiplier
-    ```
-2. Sum the total weighted chests across all Crystal holders.
-3. Divide the entire redistributed pool proportionally to these weighted chests.
+### **Step 5: Final Reward**
 
-**Example:**\
-After removing non-holders, there are 7,500 eligible Chests.\
-The total weighted chests, after applying multipliers, amount to 9,750.\
-If User A has 200 Chests and owns 3 Crystals (1.6× multiplier):
-
-```
-Weighted Chests = 200 × 1.6 = 320
-Final Reward = (10,000,000,000 × 320) ÷ 9,750 = 328,205,128 $SHARD
-```
+Bob receives his **initial allocation** + **share of Redistribution Pool**.\
+This ensures the total never exceeds the fixed 20% supply.
 
 ***
 
-#### Key Points
+## How to Claim
 
-* The pool is fixed at **10% of total supply** (10,000,000,000 $SHARD) for the Mining Season.
-* No tokens are created beyond the allocation.
-* Redistribution and multipliers happen **after** the Crystal Sale ends and non-holder allocations are removed.
+### Step 1: Earn Your Allocation
+
+* **Initial Airdrop**: If your wallet met the snapshot criteria, you received an allocation.
+* **Mining Season**: Collect Chests every 8 hours and invite friends for bonus Chests.
+
+### Step 2: Acquire a Crystal NFT
+
+After Mining Season, the Crystal NFT Sale takes place.\
+Crystals are the foundational NFTs of the Farlegacy ecosystem. Without a Crystal, your rewards remain locked and are redistributed.
+
+### Step 3: Redistribution and Multipliers
+
+Once the Crystal Sale ends, unclaimed rewards are pooled together.\
+Crystal holders receive this pool proportionally, with multipliers applied depending on how many Crystals they own.
+
+### Step 4: Claim Your $SHARD
+
+After redistribution is finalized, Crystal holders can claim their final $SHARD rewards in the Farlegacy app.
