@@ -22,7 +22,7 @@ Each Crystal is a permanent on-chain proof that you belong in this universe.
 
 These are the core utilities tied to Crystal ownership:
 
-<figure><img src=".gitbook/assets/Frame 65 (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Frame 65 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
