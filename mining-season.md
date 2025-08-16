@@ -21,7 +21,7 @@ This is your first opportunity to start earning $SHARD and position yourself ahe
 
 ## Mining Season
 
-<figure><img src=".gitbook/assets/Frame 12270.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/324234254 (1).png" alt=""><figcaption></figcaption></figure>
 
 Mining Season is a limited time event where players compete and collaborate to earn Chests. At the end of the event, Chests will be converted into $SHARD tokens.
 
@@ -53,12 +53,12 @@ This ensures that rewards go to those who hold a stake in the Farlegacy universe
 
 ## Airdrop
 
+<figure><img src=".gitbook/assets/35467357634576png (1).png" alt=""><figcaption></figcaption></figure>
+
 10% of the total $SHARD supply is reserved for the airdrop.
 
 * The airdrop is first come, first served (FCFS). Once it is reserved, it is gone.
 * Eligible users must secure their allocation through the Farlegacy app during the campaign. Tokens will be claimable after the campaign ends and the Token Generation Event (TGE) takes place.
-
-<figure><img src=".gitbook/assets/Frame 152271.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 All eligibility criteria are collected [here](airdrop-and-mining-season/eligibility-criteria.md), where you'll find a full breakdown of how eligibility is determined. The article includes details on the snapshot date, the total number of eligible wallets, and the full distribution logic.
