@@ -45,7 +45,7 @@ drawing as many new ones as you used during the previous turn.
 
 There are four types of cards in Farlegacy, each with a distinct role in battle:
 
-<figure><img src="../../.gitbook/assets/Cards (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Frame 257.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

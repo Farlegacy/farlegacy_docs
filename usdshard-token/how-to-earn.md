@@ -6,6 +6,6 @@ icon: magnifying-glass-dollar
 
 $SHARD can be earned through a variety of in-game systems that reward your skill, activity, and long-term engagement. Here are the core earning methods available to players:
 
-<figure><img src="../.gitbook/assets/Shard.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/leaderboard-svgrepo-com 1.png" alt=""><figcaption></figcaption></figure>
 
 These systems ensure that $SHARD is not only a reward for skill, but also a currency of progression and community participation. The more you engage, the more you earn.

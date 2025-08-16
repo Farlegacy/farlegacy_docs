@@ -13,7 +13,7 @@ Airdrop & Mining Season is the first major campaign in the Farlegacy universe. I
 
 A total of 20% of the total [$SHARD token](usdshard-token/) supply is allocated to this campaign.
 
-<figure><img src=".gitbook/assets/Frame 12273.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Frame 6781.png" alt=""><figcaption></figcaption></figure>
 
 This is your first opportunity to start earning $SHARD and position yourself ahead of the game launch.
 
