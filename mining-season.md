@@ -68,11 +68,11 @@ All eligibility criteria are collected [here](airdrop-and-mining-season/eligibil
 
 ## Timeline
 
-* **Airdrop & Mining Season Launch:** August 18 at 18:00 UTC
-* **Duration:** 7 days
-* **Crystal NFT Mint:** August 25 at 18:00 UTC
-* **Token Generation Event (TGE):** August 29 at 18:00 UTC
-* **Открытие клейма $SHARD:** August 30 at 18:00 UTC
+* **Airdrop & Mining Season Launch:** TBA
+* **Duration:** TBA
+* **Crystal NFT Mint:** TBA
+* **Token Generation Event (TGE):** TBA
+* **$SHARD Claim Opens:** TBA
 
 ***
 
@@ -80,4 +80,6 @@ All eligibility criteria are collected [here](airdrop-and-mining-season/eligibil
 
 Funds raised from the Crystal NFT sale will be used to provide liquidity for $SHARD on decentralized exchanges. This ensures that early community participants benefit from real token utility and a healthy on chain economy.
 
-No team tokens will be distributed before the community receives their share. The campaign comes first.
+{% hint style="info" %}
+**No team tokens will be distributed before the community receives their share. The campaign comes first.**
+{% endhint %}
