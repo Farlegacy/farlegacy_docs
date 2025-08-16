@@ -128,8 +128,8 @@ Crystal multipliers apply to user allocations:
 | 4              | 2.0×       |
 | 5+             | 2.5×       |
 
-Bob owns 2 Crystals → multiplier **1.3x**.\
-His weighted allocation = **25,125,000 × 1.3 = 32,662,500**.
+Bob owns 2 Crystals → multiplier 1.3x.\
+His weighted allocation = 25,125,000 × 1.3 = 32,662,500.
 
 {% hint style="info" %}
 All weighted allocations are summed across Crystal holders. Redistribution Pool (4,500,000,000 $SHARD) is distributed proportionally to these weights.
@@ -137,7 +137,7 @@ All weighted allocations are summed across Crystal holders. Redistribution Pool 
 
 ### **Step 5: Final Reward**
 
-Bob receives his **initial allocation** + **share of Redistribution Pool**.\
+Bob receives his initial allocation + share of Redistribution Poo**l**.\
 This ensures the total never exceeds the fixed 20% supply.
 
 ***
