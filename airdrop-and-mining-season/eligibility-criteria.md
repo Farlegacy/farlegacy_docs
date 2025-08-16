@@ -71,7 +71,7 @@ There are two ways to qualify for the Initial Airdrop:
 
 **Supply:** 10,000,000,000 $SHARD (10% of total supply)
 
-During the Mining Season, users can earn Chests every **8 hours** in the **Mine** tab or by inviting others through referral codes. All Chests collected during the event will be converted into $SHARD after the campaign ends.
+During the Mining Season, users can earn Chests every 8 hours in the Mine tab or by inviting others through referral codes. All Chests collected during the event will be converted into $SHARD after the campaign ends.
 
 **Key Notes:**
 
@@ -85,10 +85,10 @@ During the Mining Season, users can earn Chests every **8 hours** in the **Mine*
 
 At the end of the Mining Season, rewards come from two pools:
 
-* **Initial Airdrop Pool**: 10% of total supply (**10,000,000,000 $SHARD**)
-* **Mining Pool**: 10% of total supply (**10,000,000,000 $SHARD**)
+* **Initial Airdrop Pool**: 10% of total supply (10,000,000,000 $SHARD)
+* **Mining Pool**: 10% of total supply (10,000,000,000 $SHARD)
 
-Both are distributed first to all eligible users. If a user does not own at least one Crystal NFT after the Crystal Sale, their entire allocation is returned to the **Redistribution Pool**.
+Both are distributed first to all eligible users. If a user does not own at least one Crystal NFT after the Crystal Sale, their entire allocation is returned to the Redistribution Pool.
 
 Final distribution is then recalculated among Crystal holders with multipliers applied.
 
@@ -99,14 +99,14 @@ Final distribution is then recalculated among Crystal holders with multipliers a
 ### **Step 1: Mining Season**
 
 10,000 Chests are collected in total.\
-Mining Pool = 10,000,000,000 $SHARD ÷ 10,000 = **1,000,000 $SHARD per Chest**.
+Mining Pool = 10,000,000,000 $SHARD ÷ 10,000 = 1,000,000 $SHARD per Chest.
 
-Bob collects 25 Chests → **25,000,000 $SHARD**.
+Bob collects 25 Chests → 25,000,000 $SHARD.
 
 ### **Step 2: Initial Airdrop**
 
 Bob also qualifies for 125,000 $SHARD from the Initial Airdrop Pool.\
-His **total initial allocation** = **25,125,000 $SHARD**.
+His total initial allocation = 25,125,000 $SHARD.
 
 ### **Step 3: Redistribution Pool**
 
@@ -114,7 +114,7 @@ Across all users without Crystals:
 
 * 2,000,000,000 $SHARD from Initial Airdrop
 * 2,500,000,000 $SHARD from Mining Rewards\
-  Redistribution Pool = **4,500,000,000 $SHARD**
+  Redistribution Pool = 4,500,000,000 $SHARD
 
 ### Step 4: Multipliers
 
