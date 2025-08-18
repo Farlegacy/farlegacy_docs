@@ -65,6 +65,12 @@ There are two ways to qualify for the Initial Airdrop:
 | Virtual Protocol ($VIRTUAL) | [0x0b3e32...4e7e1b](https://basescan.org/token/0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b)              |
 | Zora ($ZORA)                | [0x111111...0afc69](https://basescan.org/token/0x1111111111166b7fe7bd91427724b487980afc69)              |
 
+{% hint style="info" %}
+Eligibility applies strictly to holders of the listed tokens on Base.&#x20;
+
+An exception is made only for tokens that are not available on Base (ex. OP must be held on Optimism). Holdings on any other networks are not considered for the airdrop.
+{% endhint %}
+
 ***
 
 ## 2. Mining Season Airdrop
