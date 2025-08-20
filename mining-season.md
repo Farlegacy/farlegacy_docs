@@ -68,7 +68,8 @@ All eligibility criteria are collected [here](airdrop-and-mining-season/eligibil
 
 ## Timeline
 
-* **Airdrop & Mining Season Launch:** TBA
+* **Eligibility Checker Launch:** TBA
+* **Mining Season Launch:** TBA
 * **Duration:** TBA
 * **Crystal NFT Mint:** TBA
 * **Token Generation Event (TGE):** TBA
