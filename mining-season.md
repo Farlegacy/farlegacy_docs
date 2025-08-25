@@ -1,5 +1,4 @@
 ---
-hidden: true
 icon: treasure-chest
 ---
 
@@ -68,10 +67,10 @@ All eligibility criteria are collected [here](airdrop-and-mining-season/eligibil
 
 ## Timeline
 
-* **Eligibility Checker Launch:** August 25, 12:00 (UTC)
-* **Mining Season Launch:** August 26, 12:00 (UTC)
+* **Eligibility Checker Launch:** August 25, 15:00 (UTC)
+* **Mining Season Launch:** August 26, 15:00 (UTC)
 * **Duration:** 7 days
-* **Crystal NFT Mint:** September 2, 12:00 (UTC)
+* **Crystal NFT Mint:** September 2, 15:00 (UTC)
 * **Token Generation Event (TGE):** After the Crystal Mint concludes
 * **$SHARD Claim Opens:** 24 hours after TGE
 
