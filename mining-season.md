@@ -54,7 +54,7 @@ This ensures that rewards go to those who hold a stake in the Farlegacy universe
 
 <figure><img src=".gitbook/assets/35467357634576png (1).png" alt=""><figcaption></figcaption></figure>
 
-10% of the total $SHARD supply is reserved for the airdrop.
+10% of the total $SHARD supply is reserved for the [Airdrop](https://airdrop.farlegacy.com/).
 
 * The airdrop is first come, first served (FCFS). Once it is reserved, it is gone.
 * Eligible users must secure their allocation through the Farlegacy app during the campaign. Tokens will be claimable after the campaign ends and the Token Generation Event (TGE) takes place.
