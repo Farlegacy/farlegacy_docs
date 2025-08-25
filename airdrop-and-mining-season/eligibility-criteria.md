@@ -166,4 +166,4 @@ Crystal holders receive this pool proportionally, with multipliers applied depen
 
 ### Step 4: Claim Your $SHARD
 
-After redistribution is finalized, Crystal holders can claim their final $SHARD rewards in the Farlegacy app.
+After redistribution is finalized, Crystal holders can claim their final $SHARD rewards in the [Farlegacy app.](https://farcaster.xyz/miniapps/XQR9D2cjYYwC/farlegacy)
