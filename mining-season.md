@@ -72,7 +72,7 @@ All eligibility criteria are collected [here](airdrop-and-mining-season/eligibil
 * **Duration:** 7 days
 * **Crystal NFT Mint:** September 3, 15:00 (UTC)
 * **Token Generation Event (TGE):** After the Crystal Mint concludes
-* **$SHARD Claim Opens:** 24 hours after TGE
+* **$SHARD Claim Opens:** at TGE
 
 ***
 
